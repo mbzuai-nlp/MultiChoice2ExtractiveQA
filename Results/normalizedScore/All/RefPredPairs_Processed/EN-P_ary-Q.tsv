@@ -1,0 +1,330 @@
+Reference	Predection	F1_score	reference_no_stop_words	prediction_no_stop_words	F1 Score_new	Exact Score_new
+to ensure that the image covers the whole screen	overscan	0.0	ensure image covers whole screen	overscan	0.0	0
+at Bordentown	Bordentown	0.6666666666666666	Bordentown	Bordentown	1.0	1
+John Hancock and the Secretary Charles Thomson	The original handwritten copy has not survived	0.0	John Hancock Secretary Charles Thomson	original handwritten copy survived	0.0	0
+along the fence on the north end of the Colonist's position	New Hampshire	0.0	along fence north end Colonist 's position	New Hampshire	0.0	0
+polymorphic	polymorphic	1.0	polymorphic	polymorphic	1.0	1
+negative	negative electric charge	0.5	negative	negative electric charge	0.5	0
+neutrons and protons	The atom	0.0	neutrons protons	atom	0.0	0
+bits	1	0.0	bits	1	0.0	0
+Felix Bloch (working at Stanford University) and Edward Purcell (from Harvard University)	Raymond Damadian	0.0	Felix Bloch ( working Stanford University ) Edward Purcell ( Harvard University )	Raymond Damadian	0.0	0
+towards the end of the Middle Ages	towards the end of the Middle Ages	1.0	towards end Middle Ages	towards end Middle Ages	1.0	1
+the crusades	crusades	1.0	crusades	crusades	1.0	1
+Spanish	The War of Spanish Succession	0.4	Spanish	War Spanish Succession	0.5	0
+the Thirty Years' War	the Thirty Years' War	1.0	Thirty Years ' War	Thirty Years ' War	1.0	1
+class	after the Revolution occupations were open to all male applicants allowing the most ambitious and successful to succeed.	0.0	class	Revolution occupations open male applicants allowing ambitious successful succeed .	0.0	0
+transportation	transportation systems. Almost everyone complains about transportation systems	0.2222222222222222	transportation	transportation systems . Almost everyone complains transportation systems	0.25	0
+germ-line cells can be passed on to children	Only mutations in germ-line cells	0.3076923076923077	germ-line cells passed children	mutations germ-line cells	0.5714285714285715	0
+strokes	The player who takes the fewest strokes, or swings of the club, to complete the course wins	0.1428571428571428	strokes	player takes fewest strokes , swings club , complete course wins	0.19999999999999998	0
+the green	the grass around the hole is mown shorter and called the green	0.1999999999999999	green	grass around hole mown shorter called green	0.25	0
+to eliminate one or more of the possible hypotheses	Science’s main goal is to figure out the way the world works through the scientific method	0.0952380952380952	eliminate one possible hypotheses	Science ’ main goal figure way world works scientific method	0.0	0
+thousands of years	thousands and thousands of years	0.7499999999999999	thousands years	thousands thousands years	0.8	0
+expressed variation	Twentieth century research has shown that there are two pools of genetic variation: hidden and expressed	0.2222222222222222	expressed variation	Twentieth century research shown two pools genetic variation : hidden expressed	0.33333333333333337	0
+Mutation	Mutation	1.0	Mutation	Mutation	1.0	1
+ through a distinctive and symbolic use of style	Subcultures bring together like-minded individuals who feel neglected by societal standards	0.0	distinctive symbolic use style	Subcultures bring together like-minded individuals feel neglected societal standards	0.0	0
+tend to not do well in school	children who identify with a racial minority that is stereotyped as not doing well in school tend to not do well in school	0.4827586206896552	tend well school	children identify racial minority stereotyped well school tend well school	0.4615384615384615	0
+cultural tourism	cultural tourism	1.0	cultural tourism	cultural tourism	1.0	1
+recalling previous instances of entrepreneurial behavior and resulting successes	lessened the fears of change, while creating positive inclinations toward change in the future	0.0952380952380952	recalling previous instances entrepreneurial behavior resulting successes	lessened fears change , creating positive inclinations toward change future	0.0	0
+the length of time between REM states	how often your brain attempts to lucidly dream per night	0.0	length time REM states	often brain attempts lucidly dream per night	0.0	0
+the Early Middle Ages	Early Middle Ages	1.0	Early Middle Ages	Early Middle Ages	1.0	1
+the Late Middle Ages	Late Middle Ages	1.0	Late Middle Ages	Late Middle Ages	1.0	1
+visual system sensory organs	visual system sensory organs or eyes	0.8	visual system sensory organs	visual system sensory organs eyes	0.888888888888889	0
+the requirements of the organism	There are many different constructions of eyes, ranging in complexity depending on the requirements of the organism	0.3333333333333333	requirements organism	many different constructions eyes , ranging complexity depending requirements organism	0.3636363636363636	0
+several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx	"The Giza Plateau, or """"Giza Necropolis"	0.0	several pyramids ( great pyramid largest ) , several small tombs , several temples , great Sphinx	Giza Plateau , `` '' Giza Necropolis	0.0	0
+to honor the Pharaoh Khufu	to honor the Pharaoh Khufu	1.0	honor Pharaoh Khufu	honor Pharaoh Khufu	1.0	1
+Strabo	Herostratus	0.0	Strabo	Herostratus	0.0	0
+stop this traffic	trying to stop this traffic	0.7499999999999999	stop traffic	trying stop traffic	0.8	0
+saddle	The saddle had not yet been invented, so the Assyrian cavalry fought on the bare backs of their horses	0.1176470588235294	saddle	saddle yet invented , Assyrian cavalry fought bare backs horses	0.19999999999999998	0
+on horseback	the Assyrian cavalry fought on the bare backs of their horses	0.1818181818181818	horseback	Assyrian cavalry fought bare backs horses	0.0	0
+in 1922	King Tutankhamun	0.0	1922	King Tutankhamun	0.0	0
+the discovery of his tomb	King Tutankhamun	0.0	discovery tomb	King Tutankhamun	0.0	0
+blind poet	blind	0.6666666666666666	blind poet	blind	0.6666666666666666	0
+Pythagoras	Pythagoras	1.0	Pythagoras	Pythagoras	1.0	1
+in the open air	Most of the life of the Hebrew family happened in the open air	0.4615384615384615	open air	life Hebrew family happened open air	0.5	0
+the house	Most of the life of the Hebrew family happened in the open air	0.0	house	life Hebrew family happened open air	0.0	0
+Eskimo tribes	Erik the Red	0.0	Eskimo tribes	Erik Red	0.0	0
+the rich men	the rich men liked to have banquets together where they would lounge on their sides while they ate their meals	0.1904761904761905	rich men	rich men liked banquets together would lounge sides ate meals	0.33333333333333337	0
+it cedes sovereignty over Taiwan to Japan	cedes sovereignty over Taiwan to Japan	0.923076923076923	cedes sovereignty Taiwan Japan	cedes sovereignty Taiwan Japan	1.0	1
+the amount of Hydrogen (the H in pH) ions in the tested chemical	The pH level is indicated by the amount of Hydrogen (the H in pH) ions in the tested chemical	0.8	amount Hydrogen ( H pH ) ions tested chemical	pH level indicated amount Hydrogen ( H pH ) ions tested chemical	0.8235294117647058	0
+electrons	Hydrogen ions are protons that had their electrons stripped off them	0.1666666666666666	electrons	Hydrogen ions protons electrons stripped	0.33333333333333337	0
+medium sized cats	small cats	0.4	medium sized cats	small cats	0.4	0
+small room	cella which means small room	0.5714285714285715	small room	cella means small room	0.6666666666666666	0
+sun	photosynthesis	0.0	sun	photosynthesis	0.0	0
+carbon-dioxide	oxygen	0.0	carbon-dioxide	oxygen	0.0	0
+veins	veins	1.0	veins	veins	1.0	1
+capillaries	capillaries	1.0	capillaries	capillaries	1.0	1
+Belgian Revolution	1830s Belgian Revolution	0.8	Belgian Revolution	1830s Belgian Revolution	0.8	0
+23,764	23,764 square kilometres	0.5	23,764	23,764 square kilometres	0.5	0
+religious ceremonies	Latin is often used in religious ceremonies	0.4444444444444445	religious ceremonies	Latin often used religious ceremonies	0.5714285714285715	0
+stimulated by the bright light	To return to their previous energy level, they must get rid of the extra energy they got from the light	0.0909090909090909	stimulated bright light	return previous energy level , must get rid extra energy got light	0.14285714285714288	0
+Norway	Norway	1.0	Norway	Norway	1.0	1
+Around the 15th century	Around the 15th century	1.0	Around 15th century	Around 15th century	1.0	1
+the German alphabet	many words that were borrowed from German coalesced. This was the beginning of enlightenment	0.1333333333333333	German alphabet	many words borrowed German coalesced . beginning enlightenment	0.22222222222222224	0
+Hangeul	Hangeul	1.0	Hangeul	Hangeul	1.0	1
+gas	The gas becomes thinner as you go farther from the center of the Sun	0.1666666666666666	gas	gas becomes thinner go farther center Sun	0.25	0
+oil	Eighteen percent of Venezuelans are unemployed	0.0	oil	Eighteen percent Venezuelans unemployed	0.0	0
+two hydrogen atoms and one oxygen atom	its chemical state remains the same	0.0	two hydrogen atoms one oxygen atom	chemical state remains	0.0	0
+chemical state	its chemical state remains the same	0.5714285714285715	chemical state	chemical state remains	0.8	0
+upside down	upside down	1.0	upside	upside	1.0	1
+national flower	Vanda Miss Joaquim, an orchid hybrid, was chosen as the nation's national flower	0.3076923076923077	national flower	Vanda Miss Joaquim , orchid hybrid , chosen nation 's national flower	0.33333333333333337	0
+Britain	Germany	0.0	Britain	Germany	0.0	0
+Operation Sealion	Operation Sealion	1.0	Operation Sealion	Operation Sealion	1.0	1
+"Vichy"""" French"	French people who had made peace with the Germans in 1940 and worked with the invaders instead of fighting them	0.0999999999999999	Vichy '' '' French	French people made peace Germans 1940 worked invaders instead fighting	0.16666666666666669	0
+the Americans and Free French forces	"Operation Dragoon"""". In just two weeks the Americans and Free French forces had liberated southern France and were turning towards Germany."	0.4	Americans Free French forces	Operation Dragoon '' '' . two weeks Americans Free French forces liberated southern France turning towards Germany .	0.4444444444444445	0
+radar	radar	1.0	radar	radar	1.0	1
+shooting	shooting range	0.6666666666666666	shooting	shooting range	0.6666666666666666	0
+the British captured the Italian Tenth Army's Engineer-in-Chief	the British captured the Italian Tenth Army's Engineer-in-Chief, General Lastucci	0.8571428571428571	British captured Italian Tenth Army 's Engineer-in-Chief	British captured Italian Tenth Army 's Engineer-in-Chief , General Lastucci	0.8750000000000001	0
+in Tobruk	June 28,	0.0	Tobruk	June 28 ,	0.0	0
+Jai Shankar Choudhary	Lakkha Singh	0.0	Jai Shankar Choudhary	Lakkha Singh	0.0	0
+Sezen Aksu performed with the Italian tenor Alessandro Safina and Greek singer Haris Alexiou	Whirling Dervishes	0.0	Sezen Aksu performed Italian tenor Alessandro Safina Greek singer Haris Alexiou	Whirling Dervishes	0.0	0
+Italian	Italian	1.0	Italian	Italian	1.0	1
+in Tonga	There was some definite tsunami activity recorded near Pago Pago and Niue	0.0	Tonga	definite tsunami activity recorded near Pago Pago Niue	0.0	0
+when he slowed down to 160km/h	when he slowed down to 160km/h	1.0	slowed 160km/h	slowed 160km/h	1.0	1
+about 65 km (40 miles) south of Butte	65 km (40 miles) south	0.7692307692307693	65 km ( 40 miles ) south Butte	65 km ( 40 miles ) south	0.9090909090909091	0
+Abu Ghraib prison has been set alight	prison has been set alight	0.8333333333333333	Abu Ghraib prison set alight	prison set alight	0.7499999999999999	0
+prisoner abuse was discovered	The jail became notorious after prisoner abuse was discovered there after US forces took over	0.4444444444444445	prisoner abuse discovered	jail became notorious prisoner abuse discovered US forces took	0.5	0
+protesters	Several Bishkek residents blamed protesters from the south for the lawlessness.	0.1999999999999999	protesters	Several Bishkek residents blamed protesters south lawlessness .	0.25	0
+Bishkek residents	Several Bishkek residents blamed protesters from the south for the lawlessness	0.3636363636363636	Bishkek residents	Several Bishkek residents blamed protesters south lawlessness	0.4444444444444445	0
+2013	2013 appearance in a Shark Tank episode where the show panel declined funding the startup	0.1538461538461538	2013	2013 appearance Shark Tank episode show panel declined funding startup	0.18181818181818182	0
+when his doorbell wasn't audible from his shop in his garage	when his doorbell wasn't audible from his shop in his garage	1.0	doorbell n't audible shop garage	doorbell n't audible shop garage	1.0	1
+books	recommendations for books that children should look for when they went to their library	0.1333333333333333	books	recommendations books children look went library	0.2857142857142857	0
+the funding crunch and a shift in the philosophy of educational television programming	funding crunch and a shift in the philosophy of educational television programming contributed to ending the series	0.8333333333333333	funding crunch shift philosophy educational television programming	funding crunch shift philosophy educational television programming contributed ending series	0.8235294117647058	0
+Polish government	Poland	0.0	Polish government	Poland	0.0	0
+four	four	1.0	four	four	1.0	1
+Apple	Japan	0.0	Apple	Japan	0.0	0
+the phone	Today Apple is going to reinvent the phone	0.25	phone	Today Apple going reinvent phone	0.33333333333333337	0
+unveiled the device	Apple is going to reinvent the phone	0.0	unveiled device	Apple going reinvent phone	0.0	0
+her presidential candidacy	announced her intention to run for president	0.2	presidential candidacy	announced intention run president	0.0	0
+in La Plata	announced her presidential candidacy	0.0	La Plata	announced presidential candidacy	0.0	0
+had not breached online content censorship laws	Big Brother had not breached online content censorship laws	0.8750000000000001	breached online content censorship laws	Big Brother breached online content censorship laws	0.8333333333333333	0
+physically reside on a server	it must physically reside on a server	0.8	physically reside server	must physically reside server	0.8571428571428571	0
+John Howard	Peter Costello	0.0	John Howard	Peter Costello	0.0	0
+Maciej Krezel	a number of countries have failed to make the medal podium	0.0	Maciej Krezel	number countries failed make medal podium	0.0	0
+Finland	Anna Jochemsen	0.0	Finland	Anna Jochemsen	0.0	0
+53	Palmeiras	0.0	53	Palmeiras	0.0	0
+Manchester City	Manchester City	1.0	Manchester City	Manchester City	1.0	1
+Jack Layton	Jack Layton	1.0	Jack Layton	Jack Layton	1.0	1
+the state government and some federal MPs	Ever since the Federal Government stepped in to take over funding of the Mersey hospital in Devonport, Tasmania	0.1818181818181818	state government federal MPs	Ever since Federal Government stepped take funding Mersey hospital Devonport , Tasmania	0.26666666666666666	0
+crystals	cyanuric acid and melamine	0.0	crystals	cyanuric acid melamine	0.0	0
+crystals formed in cat urine	block kidney function	0.0	crystals formed cat urine	block kidney function	0.0	0
+Tommy Dreamer	Luna was the first Queen of Extreme	0.0	Tommy Dreamer	Luna first Queen Extreme	0.0	0
+" Dustin """"Goldust"""" Runnels"	"Dustin """"Goldust"""" Runnels"	1.0	Dustin `` '' Goldust '' '' Runnels	Dustin `` '' Goldust '' '' Runnels	1.0	1
+to avoid the old path of polluting first and cleaning up later	"Hu encouraged developing countries """"to avoid the old path of polluting first and cleaning up later"	0.846153846153846	avoid old path polluting first cleaning later	Hu encouraged developing countries `` '' avoid old path polluting first cleaning later	0.7777777777777778	0
+Ed Davey	Business Minister	0.0	Ed Davey	Business Minister	0.0	0
+Norman Lamb	Norman Lamb	1.0	Norman Lamb	Norman Lamb	1.0	1
+smoke cannabis joints	the performers smoke cannabis joints on stage, and the theatre itself is encouraging the audience to join in	0.3333333333333333	smoke cannabis joints	performers smoke cannabis joints stage , theatre encouraging audience join	0.5	0
+the performers	the performers smoke cannabis joints on stage, and the theatre itself is encouraging the audience to join in.	0.125	performers	performers smoke cannabis joints stage , theatre encouraging audience join .	0.19999999999999998	0
+extravehicular activity (EVA)	the Space Race was over.	0.0	extravehicular activity ( EVA )	Space Race .	0.0	0
+Apollo–Soyuz	led the Soviet part of the Apollo–Soyuz mission	0.2857142857142857	Apollo–Soyuz	led Soviet part Apollo–Soyuz mission	0.33333333333333337	0
+Liberal	Bush's New Orleans Deal.	0.0	Liberal	Bush 's New Orleans Deal .	0.0	0
+her mother	Blue Ash, Ohio	0.0	mother	Blue Ash , Ohio	0.0	0
+in the trunk of her car	Blue Ash, Ohio	0.0	trunk car	Blue Ash , Ohio	0.0	0
+Skype	eBay	0.0	Skype	eBay	0.0	0
+diversify its profit sources and gain popularity in areas where Skype holds a strong position	diversify its profit sources	0.4444444444444445	diversify profit sources gain popularity areas Skype holds strong position	diversify profit sources	0.4615384615384615	0
+the dependency on oil	dependency on oil	1.0	dependency oil	dependency oil	1.0	1
+a pre-printed sheet of paper indicating their candidate of choice into an envelope	put a pre-printed sheet of paper indicating their candidate of choice into an envelope	0.9565217391304348	pre-printed sheet paper indicating candidate choice envelope	put pre-printed sheet paper indicating candidate choice envelope	0.9333333333333333	0
+a lifelong interest in the war	eight	0.0	lifelong interest war	eight	0.0	0
+the very high fatality rate	very high fatality rate	1.0	high fatality rate	high fatality rate	1.0	1
+two	6,000	0.0	two	6,000	0.0	0
+satellite-based technology	satellite-based technology	1.0	satellite-based technology	satellite-based technology	1.0	1
+pinpoint aircraft with greater precision	give pilots more accurate information	0.0	pinpoint aircraft greater precision	give pilots accurate information	0.0	0
+devote 10 agents to adult pornography	the FBI must devote 10 agents to adult pornography	0.8571428571428571	devote 10 agents adult pornography	FBI must devote 10 agents adult pornography	0.8333333333333333	0
+rolled over	exploded	0.0	rolled	exploded	0.0	0
+to commercial flights	closing the airport to commercial flights	0.7499999999999999	commercial flights	closing airport commercial flights	0.6666666666666666	0
+Carter	John F. Kennedy	0.0	Carter	John F. Kennedy	0.0	0
+Henry Kissinger	National Security Advisor (NSA) from 1977 to 1981	0.0	Henry Kissinger	National Security Advisor ( NSA ) 1977 1981	0.0	0
+second claw was larger	western claw	0.3333333333333333	second claw larger	western claw	0.4	0
+the 1960s	1973	0.0	1960s	1973	0.0	0
+in St. Peter's Square	Several large television screens were installed in various places in Rome to let the people watch the ceremony	0.1	St. Peter 's Square	Several large television screens installed various places Rome let people watch ceremony	0.0	0
+in St. Peter's Square	St. Peter's Square	0.8571428571428571	St. Peter 's Square	St. Peter 's Square	1.0	1
+Uka	Uka's weapon failed whilst pointed at a fifth man's head	0.0	Uka	Uka 's weapon failed whilst pointed fifth man 's head	0.18181818181818182	0
+9,000	1759	0.0	9,000	1759	0.0	0
+US$14.7 billion	US$14.7 billion	1.0	US $ 14.7 billion	US $ 14.7 billion	1.0	1
+the seventh country	France	0.0	seventh country	France	0.0	0
+in marshland near Lyon in the east of France	dead wild duck	0.0	marshland near Lyon east France	dead wild duck	0.0	0
+the 1800s	1800s	1.0	1800s	1800s	1.0	1
+the troop's encampment	waste from the UN camp was not properly sanitized	0.0	troop 's encampment	waste UN camp properly sanitized	0.0	0
+drug	temporary legality	0.0	drug	temporary legality	0.0	0
+trespassing	trespassing rather than vandalism	0.4	trespassing	trespassing rather vandalism	0.5	0
+The sign was not physically damaged	vandalism	0.0	sign physically damaged	vandalism	0.0	0
+to the National Congress	Roberto Jefferson	0.0	National Congress	Roberto Jefferson	0.0	0
+hail fell from the sky	the rain comes	0.0	hail fell sky	rain comes	0.0	0
+only the third major hurricane	Fred is the strongest tropical cyclone ever recorded so far south and east in the Atlantic since the advent of satellite imagery	0.0	third major hurricane	Fred strongest tropical cyclone ever recorded far south east Atlantic since advent satellite imagery	0.0	0
+northwest	Cape Verde islands	0.0	northwest	Cape Verde islands	0.0	0
+dual radios	provided that the base station has dual radios	0.4444444444444445	dual radios	provided base station dual radios	0.5714285714285715	0
+100m and 200m freestyle and in three relays	due to his complaints his fitness has been in doubt	0.1111111111111111	100m 200m freestyle three relays	due complaints fitness doubt	0.0	0
+as they are banned	his fitness has been in doubt	0.0	banned	fitness doubt	0.0	0
+encephalitis vaccine	The outbreak has prompted the Indian government to undertake such measures as deployment of pig catchers in seriously affected areas	0.0	encephalitis vaccine	outbreak prompted Indian government undertake measures deployment pig catchers seriously affected areas	0.0	0
+through mosquitos	through mosquitos	1.0	mosquitos	mosquitos	1.0	1
+possibly open the door for civil unions	could possibly open the door for civil unions in the future	0.8	possibly open door civil unions	could possibly open door civil unions future	0.8333333333333333	0
+to the press	Panamanian law firm Mossack Fonseca	0.0	press	Panamanian law firm Mossack Fonseca	0.0	0
+Lo Piccolo	Lo Piccolo	1.0	Lo Piccolo	Lo Piccolo	1.0	1
+in Nepal	Nepal	0.6666666666666666	Nepal	Nepal	1.0	1
+a rabid dog	a rabid dog	1.0	rabid dog	rabid dog	1.0	1
+right after his pit-stop	right after his pit-stop	1.0	right pit-stop	right pit-stop	1.0	1
+the suspension damage	suspension damage	1.0	suspension damage	suspension damage	1.0	1
+a hearing	did not receive a hearing by a court commissioner	0.25	hearing	receive hearing court commissioner	0.4	0
+These agents	Political Agents	0.5	agents	Political Agents	0.6666666666666666	0
+Actress	Best Actor and Actress	0.4	Actress	Best Actor Actress	0.5	0
+OHA	tenants	0.0	OHA	tenants	0.0	0
+Bowyer	Keselowski	0.0	Bowyer	Keselowski	0.0	0
+2,220	Keselowski remains the Drivers' Championship leader with 2,250 points	0.0	2,220	Keselowski remains Drivers ' Championship leader 2,250 points	0.0	0
+34 have been verified to be martian in origin	Fifteen of these rocks are attributed to the meteorite shower last July	0.0999999999999999	34 verified martian origin	Fifteen rocks attributed meteorite shower last July	0.0	0
+in 2006	Schumacher	0.0	2006	Schumacher	0.0	0
+during the 2009 Hungarian Grand Prix	Massa is due to be out for at least the rest of the 2009 season	0.1111111111111111	2009 Hungarian Grand Prix	Massa due least rest 2009 season	0.2	0
+all fifty of its delegates	all fifty of its delegates	1.0	fifty delegates	fifty delegates	1.0	1
+information	10 gunmen from the Pakistani militant group Laskhar-e-Taiba	0.0	information	10 gunmen Pakistani militant group Laskhar-e-Taiba	0.0	0
+boat	boat	1.0	boat	boat	1.0	1
+Four	45 of the 117 total skiers in the Giant Slalom failed to rank in the race	0.0	Four	45 117 total skiers Giant Slalom failed rank race	0.0	0
+in 2007	Northern Rock had required support due to its exposure during the subprime mortgage crisis in 2007.	0.2352941176470588	2007	Northern Rock required support due exposure subprime mortgage crisis 2007 .	0.18181818181818182	0
+the United States	United States	1.0	United States	United States	1.0	1
+the economy	it would damage the economy with its heavy reliance on coal exports	0.1666666666666666	economy	would damage economy heavy reliance coal exports	0.25	0
+the Sporting Shooters Association's hunting program	Sporting Shooters Association's hunting program	1.0	Sporting Shooters Association 's hunting program	Sporting Shooters Association 's hunting program	1.0	1
+moving the device through the air	the controller	0.0	moving device air	controller	0.0	0
+the controller	Nintendo Revolution console	0.0	controller	Nintendo Revolution console	0.0	0
+the committee, unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature	unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature, had abandoned its efforts to reach him	0.7647058823529412	committee , unable reach Bob Dylan directly winning 2016 Nobel Prize Literature	unable reach Bob Dylan directly winning 2016 Nobel Prize Literature , abandoned efforts reach	0.8333333333333333	0
+Bob Dylan	Bob Dylan	1.0	Bob Dylan	Bob Dylan	1.0	1
+Gordon Johndroe	"North Korea's pledge """"a major step towards the goal of achieving the verifiable denuclearization of the Korean peninsula"	0.0	Gordon Johndroe	North Korea 's pledge `` '' major step towards goal achieving verifiable denuclearization Korean peninsula	0.0	0
+over 1,000	28	0.0	1,000	28	0.0	0
+A power failure	800 miles of the Trans-Alaska Pipeline System were closed down	0.0	power failure	800 miles Trans-Alaska Pipeline System closed	0.0	0
+waist-high	The Ninth Ward, which saw flooding as high as 20 feet during Hurricane Katrina, is currently in waist-high water	0.1052631578947368	waist-high	Ninth Ward , saw flooding high 20 feet Hurricane Katrina , currently waist-high water	0.15384615384615385	0
+flooding	Hurricane Katrina	0.0	flooding	Hurricane Katrina	0.0	0
+how planets form, especially how the Earth formed	Scientists hope to understand how planets form	0.4285714285714285	planets form , especially Earth formed	Scientists hope understand planets form	0.4000000000000001	0
+take pictures of the police stop	the photographer stopped his vehicle on the other side of Sepulveda Boulevard and attempted to take pictures of the police stop	0.4347826086956522	take pictures police stop	photographer stopped vehicle side Sepulveda Boulevard attempted take pictures police stop	0.5333333333333333	0
+240 kilometers an hour (149 miles per hour)	240 kilometers an hour	0.6	240 kilometers hour ( 149 miles per hour )	240 kilometers hour	0.6	0
+just after an early pit stop for Fernando Alonso	Piquet Jr. crashed in the 2008 Singapore Grand Prix	0.0	early pit stop Fernando Alonso	Piquet Jr. crashed 2008 Singapore Grand Prix	0.0	0
+The city	Bucharest City Hall	0.5	city	Bucharest City Hall	0.5	0
+accident	Russia briefly grounded Il-76s after that accident	0.25	accident	Russia briefly grounded Il-76s accident	0.33333333333333337	0
+The aircraft	The Il-76 has been a major component of both the Russian and Soviet military since the 1970s	0.0	aircraft	Il-76 major component Russian Soviet military since 1970s	0.0	0
+both female and male individuals	positive comments and encouragement sent to her by both female and male individuals	0.5555555555555556	female male individuals	positive comments encouragement sent female male individuals	0.6	0
+rachis	confirms that at least some dinosaurs had feathers	0.0	rachis	confirms least dinosaurs feathers	0.0	0
+in low-income countries	the survival rates for illnesses such as breast cancer can be half those of richer countries	0.1111111111111111	low-income countries	survival rates illnesses breast cancer half richer countries	0.2	0
+standard inkjet printers	a tiny printable chip	0.0	standard inkjet printers	tiny printable chip	0.0	0
+extreme weather conditions	extreme weather conditions have been hampering rescue efforts	0.5454545454545454	extreme weather conditions	extreme weather conditions hampering rescue efforts	0.6666666666666666	0
+when he believes life begins	Roberts flatly refused to say about when he believes life begins	0.625	believes life begins	Roberts flatly refused say believes life begins	0.6	0
+the specifics of likely cases	Roberts flatly refused to say about when he believes life begins	0.0	specifics likely cases	Roberts flatly refused say believes life begins	0.0	0
+skywards	Two beams of light have been rigged up to point skywards	0.1666666666666666	skywards	Two beams light rigged point skywards	0.2857142857142857	0
+temperature variations	Glen Cushing	0.0	temperature variations	Glen Cushing	0.0	0
+Infrared images	Infrared images	1.0	Infrared images	Infrared images	1.0	1
+he is a member of the Uighur ethnic group	His name is still unknown to authorities, although they do know he is a member of the Uighur ethnic group	0.56	member Uighur ethnic group	name still unknown authorities , although know member Uighur ethnic group	0.5714285714285715	0
+Springboks play Australia	South Africa	0.0	Springboks play Australia	South Africa	0.0	0
+Johannesburg	final match for the All Blacks	0.0	Johannesburg	final match Blacks	0.0	0
+49	Sevilla	0.0	49	Sevilla	0.0	0
+Bolonia	Bolonia	1.0	Bolonia	Bolonia	1.0	1
+a match planned for Sunday	Jarque was practicing during pre-season training at Coverciano in Italy	0.0	match planned Sunday	Jarque practicing pre-season training Coverciano Italy	0.0	0
+29 per cent	8 per cent	0.6666666666666666	29 per cent	8 per cent	0.6666666666666666	0
+at the end of Queen Elizabeth II's reign	Prime Minister	0.0	end Queen Elizabeth II 's reign	Prime Minister	0.0	0
+Planned Parenthood	Komen Foundation	0.0	Planned Parenthood	Komen Foundation	0.0	0
+the Oversight and Investigations Subcommittee	Oversight and Investigations Subcommittee	1.0	Oversight Investigations Subcommittee	Oversight Investigations Subcommittee	1.0	1
+ASUS	ASUS was awarded in the 2007 Taiwan Sustainable Award by Executive Yuan of the Republic of China	0.125	ASUS	ASUS awarded 2007 Taiwan Sustainable Award Executive Yuan Republic China	0.18181818181818182	0
+laptop	earlier launched world-wide for cost-saving and functionality factors	0.0	laptop	earlier launched world-wide cost-saving functionality factors	0.0	0
+the boy	the boy had hidden more than 600 postal documents, including 429 New Year postcards, which weren't delivered to their intended recipients	0.0952380952380952	boy	boy hidden 600 postal documents , including 429 New Year postcards , n't delivered intended recipients	0.13333333333333333	0
+in the second set	a tie break after reaching 6-6	0.0	second set	tie break reaching 6-6	0.0	0
+Murray lost	Murray lost the first set in a tie break	0.4444444444444445	Murray lost	Murray lost first set tie break	0.5	0
+children	Texas citizens that steps were being taken to protect the public's safety	0.0	children	Texas citizens steps taken protect public 's safety	0.0	0
+The Onion	The Onion	1.0	Onion	Onion	1.0	1
+At 11:20	11:20	0.6666666666666666	11:20	11:20	1.0	1
+bad weather	bad weather	1.0	bad weather	bad weather	1.0	1
+the storm is far from landfall	it remains difficult to assess potential impact to the United States or Caribbean	0.0	storm far landfall	remains difficult assess potential impact United States Caribbean	0.0	0
+Deputy Prime Minister Wong Kan Seng	Wong Kan Seng	0.6666666666666666	Deputy Prime Minister Wong Kan Seng	Wong Kan Seng	0.6666666666666666	0
+After a week of losses in the midterm election	George W. Bush	0.0	week losses midterm election	George W. Bush	0.0	0
+fund extra carriages	Today's announcement also extended the government's commitment made in March of this year to fund extra carriages	0.3157894736842105	fund extra carriages	Today 's announcement also extended government 's commitment made March year fund extra carriages	0.35294117647058826	0
+presidential commission	Last month a presidential commission recommended the prior CEP's resignation	0.4	presidential commission	Last month presidential commission recommended prior CEP 's resignation	0.3636363636363636	0
+making the sport of gymnastics, and others, as safe as possible	making the sport of gymnastics, and others, as safe as possible for athletes to follow their dreams in a safe, positive and empowered environment	0.625	making sport gymnastics , others , safe possible	making sport gymnastics , others , safe possible athletes follow dreams safe , positive empowered environment	0.631578947368421	0
+Palawan	Japan	0.0	Palawan	Japan	0.0	0
+the press secretary	US troops would be leaving Syria	0.0	press secretary	US troops would leaving Syria	0.0	0
+Turkey	Turkey	1.0	Turkey	Turkey	1.0	1
+hostile fire	hostile fire	1.0	hostile fire	hostile fire	1.0	1
+mountainous	mountainous	1.0	mountainous	mountainous	1.0	1
+restore eroded sandbars	officials are hoping it will be enough to restore eroded sandbars downstream	0.4	restore eroded sandbars	officials hoping enough restore eroded sandbars downstream	0.6	0
+7	India	0.0	7	India	0.0	0
+after being involved in a crash	Peter Lenz, a 13-year-old motorcycle racer, has died after being involved in a crash at the Indianapolis Motor Speedway	0.4761904761904761	involved crash	Peter Lenz , 13-year-old motorcycle racer , died involved crash Indianapolis Motor Speedway	0.3076923076923077	0
+racer	Xavier Zayat	0.0	racer	Xavier Zayat	0.0	0
+overcome a fear which is based on the unknown or on not being in control	Travelling by plane can be a scary experience for people of all ages and backgrounds	0.0	overcome fear based unknown control	Travelling plane scary experience people ages backgrounds	0.0	0
+send luggage	Airline regulations will not allow them to send luggage without a passenger	0.3076923076923077	send luggage	Airline regulations allow send luggage without passenger	0.4444444444444445	0
+Drink alcoholic drinks with moderation	knowing your limit is very important	0.0	Drink alcoholic drinks moderation	knowing limit important	0.0	0
+The Canal District	The Canal District	1.0	Canal District	Canal District	1.0	1
+cultural and historical value	unique cultural and historical value	0.888888888888889	cultural historical value	unique cultural historical value	0.8571428571428571	0
+inland	Tourist visits are costly, demand physical fitness, can only take place in summer Nov-Feb	0.0	inland	Tourist visits costly , demand physical fitness , take place summer Nov-Feb	0.0	0
+in remote areas	remote areas with favorable atmospheric conditions	0.4444444444444444	remote areas	remote areas favorable atmospheric conditions	0.5714285714285715	0
+Central Auckland	Tamaki Drive beaches	0.0	Central Auckland	Tamaki Drive beaches	0.0	0
+because it is established by law as the first official language	most signs are indicated only in Catalan because it is established by law as the first official language	0.7407407407407407	established law first official language	signs indicated Catalan established law first official language	0.7692307692307693	0
+people who work with poultry	birdwatchers	0.0	people work poultry	birdwatchers	0.0	0
+the Arctic Ocean to the Baltic Sea	Check possible need for special permits	0.0	Arctic Ocean Baltic Sea	Check possible need special permits	0.0	0
+cherries and plums	cherries and plums making their appearances during the summer	0.5454545454545454	cherries plums	cherries plums making appearances summer	0.5714285714285715	0
+The Portuguese	earthquake in 1755	0.0	Portuguese	earthquake 1755	0.0	0
+a new republic	Diplomatic arguments over the region continue to mar relations between Armenia and Azerbaijan	0.0	new republic	Diplomatic arguments region continue mar relations Armenia Azerbaijan	0.0	0
+Diplomatic arguments	Diplomatic arguments over the region	0.6666666666666666	Diplomatic arguments	Diplomatic arguments region	0.8	0
+more than 2 passengers	There is a surcharge for having more than 2 passengers	0.6153846153846153	2 passengers	surcharge 2 passengers	0.8	0
+Inca	northern Chile was under Inca rule	0.2857142857142857	Inca	northern Chile Inca rule	0.4	0
+Paths, trains and boats	Paths, trains and boats	1.0	Paths , trains boats	Paths , trains boats	1.0	1
+Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso	Cinque Terre, which means Five Lands	0.0	Riomaggiore , Manarola , Corniglia , Vernazza Monterosso	Cinque Terre , means Five Lands	0.0	0
+readjusting to their native culture	Travellers who had an easy time adjusting to the new culture sometimes have a particularly hard time readjusting to their native culture	0.4166666666666667	readjusting native culture	Travellers easy time adjusting new culture sometimes particularly hard time readjusting native culture	0.375	0
+Norwegians	Australia	0.0	Norwegians	Australia	0.0	0
+US green card	Cuban citizens who are US green card holders	0.5454545454545454	US green card	Cuban citizens US green card holders	0.6666666666666666	0
+some may be knock-offs	some may be knock-offs, and the real imported ones may be more expensive than at home	0.4210526315789474	may knock-offs	may knock-offs , real imported ones may expensive home	0.4	0
+On the outlying islands	The official Falklands currency is the Falkland pound (FKP) whose value is set equivalent to that of one British pound (GBP).	0.0	outlying islands	official Falklands currency Falkland pound ( FKP ) whose value set equivalent one British pound ( GBP ) .	0.0	0
+Kerala's temple festivals	Most of the temples do have an Annual festival starting from November end to Mid of May, which varies according to each temple's annual calendar	0.0	Kerala 's temple festivals	temples Annual festival starting November end Mid May , varies according temple 's annual calendar	0.22222222222222224	0
+a microwave oven	Buying food in supermarkets	0.0	microwave oven	Buying food supermarkets	0.0	0
+If you don't have a data connection for your phone, or when it is out of range	Using GPS navigation apps on your smartphone can be the easiest and most convenient way to navigate when out of your home country	0.2105263157894737	n't data connection phone , range	Using GPS navigation apps smartphone easiest convenient way navigate home country	0.0	0
+waving	come over	0.0	waving	come	0.0	0
+the North Kivu province	any visits outside of Goma should be researched to understand the state of the fighting that persists in the North Kivu province	0.2727272727272727	North Kivu province	visits outside Goma researched understand state fighting persists North Kivu province	0.42857142857142855	0
+Permits are limited	There are a limited number permits reserved for walk-in requests available on a first come, first served basis	0.3157894736842105	Permits limited	limited number permits reserved walk-in requests available first come , first served basis	0.2857142857142857	0
+often covered in heather	"Rogaland and Agder they are usually called """"hei"""" meaning a treeless moorland often covered in heather."	0.4210526315789474	often covered heather	Rogaland Agder usually called `` '' hei '' '' meaning treeless moorland often covered heather .	0.42857142857142855	0
+during winter	many hill stations receiving healthy amounts of snow and offering activities such as skiing and snowboarding	0.0	winter	many hill stations receiving healthy amounts snow offering activities skiing snowboarding	0.0	0
+putting up notices offering your help, pacing the docks, approaching people cleaning their yachts, trying to make contact with sailors in the bar	Basically you'll be putting up notices offering your help	0.4	putting notices offering help , pacing docks , approaching people cleaning yachts , trying make contact sailors bar	Basically 'll putting notices offering help	0.3809523809523809	0
+This	Hong Kong Island	0.0		Hong Kong Island	0.0	0
+the Kowloon waterfront	Hong Kong Island	0.0	Kowloon waterfront	Hong Kong Island	0.0	0
+safety bars	Stirrups	0.0	safety bars	Stirrups	0.0	0
+a heel and a smooth, quite narrow, sole	Stirrups	0.0	heel smooth , quite narrow , sole	Stirrups	0.0	0
+A listing of available hosts	A hospitality exchange network is the organization that connects travelers with locals in the cities they are going to visit	0.0	listing available hosts	hospitality exchange network organization connects travelers locals cities going visit	0.0	0
+a typical guest is in their twenties	Hostels cater primarily to young people – a typical guest is in their twenties	0.631578947368421	typical guest twenties	Hostels cater primarily young people – typical guest twenties	0.5	0
+the Internet	There is also no requirement that you obtain a local number from the community in which you live	0.0	Internet	also requirement obtain local number community live	0.0	0
+Cherry blossom	Cherry blossom viewing	0.8	Cherry blossom	Cherry blossom viewing	0.8	0
+the emperor	Cherry blossom viewing, known as hanami	0.0	emperor	Cherry blossom viewing , known hanami	0.0	0
+bring your own, especially one with bright colors	women are required to wear skirts covering the knees and have their shoulders covered, too	0.0	bring , especially one bright colors	women required wear skirts covering knees shoulders covered ,	0.0	0
+in the winter	in the winter	1.0	winter	winter	1.0	1
+In remote locations, without cell phone coverage	A satellite phone is not generally a replacement for a mobile phone	0.125	remote locations , without cell phone coverage	satellite phone generally replacement mobile phone	0.16666666666666666	0
+to camp on site	camp on site	0.8571428571428571	camp site	camp site	1.0	1
+Fruit juices	bottled water is easy to find if you are fearful	0.0	Fruit juices	bottled water easy find fearful	0.0	0
+The Spaniards	The Spaniards	1.0	Spaniards	Spaniards	1.0	1
+more comfortable and less crowded	MetroPlus	0.0	comfortable less crowded	MetroPlus	0.0	0
+corner store	pay phones or ordinary telephones	0.0	corner store	pay phones ordinary telephones	0.0	0
+through a toll-free telephone number	toll-free telephone number that can be called from most phones without charge	0.375	toll-free telephone number	toll-free telephone number called phones without charge	0.6	0
+immigration check	immigration check is usually absent or a formality when you arrive in your homeland, customs control can be a hassle	0.1999999999999999	immigration check	immigration check usually absent formality arrive homeland , customs control hassle	0.33333333333333337	0
+SkyTeam	No airline alliance covers all three ocean crossings in the Southern Hemisphere (and SkyTeam covers none of the crossings).	0.1111111111111111	SkyTeam	airline alliance covers three ocean crossings Southern Hemisphere ( SkyTeam covers none crossings ) .	0.15384615384615385	0
+Go Running Tours	Go Running Tours	1.0	Go Running Tours	Go Running Tours	1.0	1
+with binoculars	binoculars	0.6666666666666666	binoculars	binoculars	1.0	1
+elephants and giraffes	elephants and giraffes	1.0	elephants giraffes	elephants giraffes	1.0	1
+downloading the desired language data	Google Translate	0.0	downloading desired language data	Google Translate	0.0	0
+yogurt	coconut milk is commonly used	0.0	yogurt	coconut milk commonly used	0.0	0
+These aren't very nimble	The South Pole Traverse	0.0	n't nimble	South Pole Traverse	0.0	0
+crevasses	The South Pole Traverse (or Highway) is a 1600 km trail from McMurdo Station on the Ross Sea to the Pole	0.0	crevasses	South Pole Traverse ( Highway ) 1600 km trail McMurdo Station Ross Sea Pole	0.0	0
+In the churchyard	marble sculptures of doves	0.0	churchyard	marble sculptures doves	0.0	0
+Student visas	Student visas	1.0	Student visas	Student visas	1.0	1
+an international student	going there as an international student	0.5714285714285715	international student	going international student	0.8	0
+In summer	you'll need to watch out for mosquitoes if you decide to hike through the rainforest	0.0	summer	'll need watch mosquitoes decide hike rainforest	0.0	0
+Sundarbans National Park	The Sundarbans	0.5	Sundarbans National Park	Sundarbans	0.5	0
+to purchase a ticket a few days in advance	purchase a ticket a few days in advance	0.923076923076923	purchase ticket days advance	purchase ticket days advance	1.0	1
+July 2020	July 2020	1.0	July 2020	July 2020	1.0	1
+hot climates	hot climates are fairly common	0.5714285714285715	hot climates	hot climates fairly common	0.6666666666666666	0
+The fabulous riches	only the head and shoulders are visible	0.0	fabulous riches	head shoulders visible	0.0	0
+say that they are married	It is recommended that any women travellers say that they are married	0.5882352941176471	say married	recommended women travellers say married	0.5714285714285715	0
+phages	phages	1.0	phages	phages	1.0	1
+the show	War Memorial Stadium	0.0	show	War Memorial Stadium	0.0	0
+band's management company	gave no initial reason	0.0	band 's management company	gave initial reason	0.0	0
+Gibson	The truck driver, who is aged 64, was not injured in the crash	0.0	Gibson	truck driver , aged 64 , injured crash	0.0	0
+Gibson was transported to a hospital but died shortly afterwards. The truck driver, who is aged 64, was not injured	Gibson was transported to a hospital but died shortly afterwards	0.6666666666666666	Gibson transported hospital died shortly afterwards . truck driver , aged 64 , injured	Gibson transported hospital died shortly afterwards	0.7058823529411764	0
+No major injuries were reported	No major injuries were reported, but at least five people on scene at the time of the explosion were treated for symptoms of shock	0.3703703703703703	major injuries reported	major injuries reported , least five people scene time explosion treated symptoms shock	0.4	0
+a neighbor	An official with the gas company was reporting to the scene after a neighbor called about a gas leak	0.1333333333333333	neighbor	official gas company reporting scene neighbor called gas leak	0.19999999999999998	0
+enough ambiguity in the Afghan constitution	Diplomats said that they had found enough ambiguity in the Afghan constitution to determine the runoff as unnecessary	0.4761904761904761	enough ambiguity Afghan constitution	Diplomats said found enough ambiguity Afghan constitution determine runoff unnecessary	0.5714285714285715	0
+two	Police said they suspect an alleged Daesh (ISIL) militant	0.0	two	Police said suspect alleged Daesh ( ISIL ) militant	0.0	0
+Police	Daesh (ISIL) militant	0.0	Police	Daesh ( ISIL ) militant	0.0	0
+TogiNet Radio	TogiNet Radio	1.0	TogiNet Radio	TogiNet Radio	1.0	1
+geeky	old school	0.0	geeky	old school	0.0	0
+Nicklas Backstrom	Alex Ovechkin	0.0	Nicklas Backstrom	Alex Ovechkin	0.0	0
+Alex Ovechkin	Alex Ovechkin	1.0	Alex Ovechkin	Alex Ovechkin	1.0	1
+block	authorities are unsure of the credibility of the threat	0.0	block	authorities unsure credibility threat	0.0	0
+Simon	Simon	1.0	Simon	Simon	1.0	1
+the quake did not meet the magnitude 6.5 requirement	No tsunami warning has been issued	0.0	quake meet magnitude 6.5 requirement	tsunami warning issued	0.0	0
+The luminosity and rotation	luminosity and rotation are used together to determine a star's Rossby number, which is related to plasma flow	0.3	luminosity rotation	luminosity rotation used together determine star 's Rossby number , related plasma flow	0.2857142857142857	0

@@ -1,0 +1,286 @@
+Reference	Predection	F1_score	reference_no_stop_words	prediction_no_stop_words	F1 Score_new	Exact Score_new
+to ensure that the image covers the whole screen	to ensure that the image covers the whole screen	1.0	ensure image covers whole screen	ensure image covers whole screen	1.0	1
+at Bordentown	Bordentown	0.6666666666666666	Bordentown	Bordentown	1.0	1
+John Hancock and the Secretary Charles Thomson	President of Congress John Hancock	0.3636363636363636	John Hancock Secretary Charles Thomson	President Congress John Hancock	0.4444444444444445	0
+along the fence on the north end of the Colonist's position	along the fence on the north end of the Colonist's position	1.0	along fence north end Colonist 's position	along fence north end Colonist 's position	1.0	1
+polymorphic	polymorphic	1.0	polymorphic	polymorphic	1.0	1
+neutrons and protons	neutrons and protons	1.0	neutrons protons	neutrons protons	1.0	1
+bits	bits	1.0	bits	bits	1.0	1
+Felix Bloch (working at Stanford University) and Edward Purcell (from Harvard University)	Felix Bloch (working at Stanford University) and Edward Purcell	0.8571428571428571	Felix Bloch ( working Stanford University ) Edward Purcell ( Harvard University )	Felix Bloch ( working Stanford University ) Edward Purcell	0.8750000000000001	0
+towards the end of the Middle Ages	end of the Middle Ages	0.888888888888889	towards end Middle Ages	end Middle Ages	0.8571428571428571	0
+the crusades	the crusades	1.0	crusades	crusades	1.0	1
+the Thirty Years' War	Thirty Years' War	1.0	Thirty Years ' War	Thirty Years ' War	1.0	1
+class	class	1.0	class	class	1.0	1
+strokes	strokes	1.0	strokes	strokes	1.0	1
+to eliminate one or more of the possible hypotheses	eliminate one or more of the possible hypotheses	0.9333333333333332	eliminate one possible hypotheses	eliminate one possible hypotheses	1.0	1
+thousands of years	thousands and thousands of years	0.7499999999999999	thousands years	thousands thousands years	0.8	0
+expressed variation	expressed variation	1.0	expressed variation	expressed variation	1.0	1
+Mutation	Mutation	1.0	Mutation	Mutation	1.0	1
+ through a distinctive and symbolic use of style	through a distinctive and symbolic use of style	1.0	distinctive symbolic use style	distinctive symbolic use style	1.0	1
+tend to not do well in school	tend to not do well in school	1.0	tend well school	tend well school	1.0	1
+the length of time between REM states	length of time between REM states	1.0	length time REM states	length time REM states	1.0	1
+the Late Middle Ages	Late Middle Ages	1.0	Late Middle Ages	Late Middle Ages	1.0	1
+visual system sensory organs	visual system sensory organs or eyes	0.8	visual system sensory organs	visual system sensory organs eyes	0.888888888888889	0
+the requirements of the organism	the requirements	0.5	requirements organism	requirements	0.6666666666666666	0
+several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx	several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx	1.0	several pyramids ( great pyramid largest ) , several small tombs , several temples , great Sphinx	several pyramids ( great pyramid largest ) , several small tombs , several temples , great Sphinx	1.0	1
+to honor the Pharaoh Khufu	to honor dead Pharaoh	0.75	honor Pharaoh Khufu	honor dead Pharaoh	0.6666666666666666	0
+Strabo	Strabo	1.0	Strabo	Strabo	1.0	1
+stop this traffic	stop this traffic	1.0	stop traffic	stop traffic	1.0	1
+saddle	The saddle	1.0	saddle	saddle	1.0	1
+on horseback	on horseback	1.0	horseback	horseback	1.0	1
+in 1922	1922	0.6666666666666666	1922	1922	1.0	1
+the discovery of his tomb	the discovery of his tomb	1.0	discovery tomb	discovery tomb	1.0	1
+Pythagoras	Pythagoras	1.0	Pythagoras	Pythagoras	1.0	1
+in the open air	in the open air	1.0	open air	open air	1.0	1
+the house	the house	1.0	house	house	1.0	1
+Eskimo tribes	Eskimo tribes	1.0	Eskimo tribes	Eskimo tribes	1.0	1
+the rich men	poor people and the woman	0.0	rich men	poor people woman	0.0	0
+the amount of Hydrogen (the H in pH) ions in the tested chemical	by the amount of Hydrogen (the H in pH) ions in the tested chemical	0.9523809523809524	amount Hydrogen ( H pH ) ions tested chemical	amount Hydrogen ( H pH ) ions tested chemical	1.0	1
+electrons	electrons	1.0	electrons	electrons	1.0	1
+medium sized cats	cats	0.5	medium sized cats	cats	0.5	0
+small room	small room	1.0	small room	small room	1.0	1
+sun	sun	1.0	sun	sun	1.0	1
+carbon-dioxide	carbon-dioxide	1.0	carbon-dioxide	carbon-dioxide	1.0	1
+veins	veins	1.0	veins	veins	1.0	1
+capillaries	capillaries	1.0	capillaries	capillaries	1.0	1
+Belgian Revolution	1830s Belgian Revolution	0.8	Belgian Revolution	1830s Belgian Revolution	0.8	0
+23,764	23,764	1.0	23,764	23,764	1.0	1
+religious ceremonies	religious ceremonies	1.0	religious ceremonies	religious ceremonies	1.0	1
+stimulated by the bright light	bright light	0.6666666666666666	stimulated bright light	bright light	0.8	0
+Norway	Norwegian	0.0	Norway	Norwegian	0.0	0
+Around the 15th century	Around the 15th century	1.0	Around 15th century	Around 15th century	1.0	1
+the German alphabet	Germany	0.0	German alphabet	Germany	0.0	0
+Hangeul	Hangeul	1.0	Hangeul	Hangeul	1.0	1
+gas	The gas	1.0	gas	gas	1.0	1
+oil	agriculture	0.0	oil	agriculture	0.0	0
+two hydrogen atoms and one oxygen atom	two hydrogen atoms and one oxygen atom	1.0	two hydrogen atoms one oxygen atom	two hydrogen atoms one oxygen atom	1.0	1
+chemical state	chemical state	1.0	chemical state	chemical state	1.0	1
+upside down	upside down	1.0	upside	upside	1.0	1
+national flower	an orchid hybrid	0.0	national flower	orchid hybrid	0.0	0
+Britain	Britain	1.0	Britain	Britain	1.0	1
+Operation Sealion	Operation Sealion	1.0	Operation Sealion	Operation Sealion	1.0	1
+"Vichy"""" French"	"Vichy"""" French"	1.0	Vichy '' '' French	Vichy '' '' French	1.0	1
+the Americans and Free French forces	Free French forces	0.7499999999999999	Americans Free French forces	Free French forces	0.8571428571428571	0
+radar	radar	1.0	radar	radar	1.0	1
+shooting	underwater	0.0	shooting	underwater	0.0	0
+the British captured the Italian Tenth Army's Engineer-in-Chief	the British captured	0.5	British captured Italian Tenth Army 's Engineer-in-Chief	British captured	0.4444444444444445	0
+in Tobruk	Tobruk	0.6666666666666666	Tobruk	Tobruk	1.0	1
+Jai Shankar Choudhary	Jai Shankar Choudhary	1.0	Jai Shankar Choudhary	Jai Shankar Choudhary	1.0	1
+Sezen Aksu performed with the Italian tenor Alessandro Safina and Greek singer Haris Alexiou	Troy.	0.0	Sezen Aksu performed Italian tenor Alessandro Safina Greek singer Haris Alexiou	Troy .	0.0	0
+Italian	Italian	1.0	Italian	Italian	1.0	1
+in Tonga	Tonga	0.6666666666666666	Tonga	Tonga	1.0	1
+when he slowed down to 160km/h	when he slowed down to 160km/h	1.0	slowed 160km/h	slowed 160km/h	1.0	1
+about 65 km (40 miles) south of Butte	65 km (40 miles) south	0.7692307692307693	65 km ( 40 miles ) south Butte	65 km ( 40 miles ) south	0.9090909090909091	0
+Abu Ghraib prison has been set alight	prison has been set alight	0.8333333333333333	Abu Ghraib prison set alight	prison set alight	0.7499999999999999	0
+prisoner abuse was discovered	prisoner abuse was discovered there after US forces took over	0.5714285714285715	prisoner abuse discovered	prisoner abuse discovered US forces took	0.6666666666666666	0
+protesters	protesters from the south	0.5	protesters	protesters south	0.6666666666666666	0
+Bishkek residents	Several Bishkek residents	0.8	Bishkek residents	Several Bishkek residents	0.8	0
+2013	after his 2013 appearance in a Shark Tank episode	0.2222222222222222	2013	2013 appearance Shark Tank episode	0.33333333333333337	0
+when his doorbell wasn't audible from his shop in his garage	when his doorbell wasn't audible from his shop in his garage	1.0	doorbell n't audible shop garage	doorbell n't audible shop garage	1.0	1
+books	books that children should look for when they went to their library	0.1538461538461538	books	books children look went library	0.33333333333333337	0
+the funding crunch and a shift in the philosophy of educational television programming	funding crunch	0.3333333333333333	funding crunch shift philosophy educational television programming	funding crunch	0.4444444444444445	0
+four	four	1.0	four	four	1.0	1
+Apple	Apple	1.0	Apple	Apple	1.0	1
+the phone	the phone	1.0	phone	phone	1.0	1
+her presidential candidacy	her intention to run for president	0.2222222222222222	presidential candidacy	intention run president	0.0	0
+in La Plata	Argentine Theatre	0.0	La Plata	Argentine Theatre	0.0	0
+had not breached online content censorship laws	Big Brother had not breached online content censorship laws	0.8750000000000001	breached online content censorship laws	Big Brother breached online content censorship laws	0.8333333333333333	0
+physically reside on a server	it must physically reside on a server	0.8	physically reside server	must physically reside server	0.8571428571428571	0
+John Howard	Peter Costello	0.0	John Howard	Peter Costello	0.0	0
+Maciej Krezel	Maciej Krezel	1.0	Maciej Krezel	Maciej Krezel	1.0	1
+Finland	Netherlands	0.0	Finland	Netherlands	0.0	0
+53	53	1.0	53	53	1.0	1
+Manchester City	Palmeiras	0.0	Manchester City	Palmeiras	0.0	0
+Jack Layton	Jack Layton	1.0	Jack Layton	Jack Layton	1.0	1
+the state government and some federal MPs	Prime Minister John Howard	0.0	state government federal MPs	Prime Minister John Howard	0.0	0
+crystals	crystals	1.0	crystals	crystals	1.0	1
+crystals formed in cat urine	crystals formed in cat urine by the addition of melamine and cyanuric acid. The composition of these crystals	0.4761904761904761	crystals formed cat urine	crystals formed cat urine addition melamine cyanuric acid . composition crystals	0.5714285714285715	0
+Tommy Dreamer	Tommy Dreamer	1.0	Tommy Dreamer	Tommy Dreamer	1.0	1
+" Dustin """"Goldust"""" Runnels"	"Dustin """"Goldust"""" Runnels"	1.0	Dustin `` '' Goldust '' '' Runnels	Dustin `` '' Goldust '' '' Runnels	1.0	1
+to avoid the old path of polluting first and cleaning up later	to avoid the old path of polluting first and cleaning up later	1.0	avoid old path polluting first cleaning later	avoid old path polluting first cleaning later	1.0	1
+Ed Davey	Ed Davey	1.0	Ed Davey	Ed Davey	1.0	1
+Norman Lamb	Norman Lamb	1.0	Norman Lamb	Norman Lamb	1.0	1
+the performers	performers	1.0	performers	performers	1.0	1
+extravehicular activity (EVA)	manned extravehicular activity	0.6666666666666666	extravehicular activity ( EVA )	manned extravehicular activity	0.6666666666666666	0
+Apollo–Soyuz	Apollo–Soyuz	1.0	Apollo–Soyuz	Apollo–Soyuz	1.0	1
+Liberal	Liberal	1.0	Liberal	Liberal	1.0	1
+Skype	Skype	1.0	Skype	Skype	1.0	1
+diversify its profit sources and gain popularity in areas where Skype holds a strong position	diversify its profit sources	0.4444444444444445	diversify profit sources gain popularity areas Skype holds strong position	diversify profit sources	0.4615384615384615	0
+the dependency on oil	dependency on oil	1.0	dependency oil	dependency oil	1.0	1
+a pre-printed sheet of paper indicating their candidate of choice into an envelope	an envelope	0.1666666666666666	pre-printed sheet paper indicating candidate choice envelope	envelope	0.25	0
+a lifelong interest in the war	a lifelong interest in the war	1.0	lifelong interest war	lifelong interest war	1.0	1
+the very high fatality rate	high fatality rate	0.8571428571428571	high fatality rate	high fatality rate	1.0	1
+two	two	1.0	two	two	1.0	1
+satellite-based technology	satellite-based	0.6666666666666666	satellite-based technology	satellite-based	0.6666666666666666	0
+pinpoint aircraft with greater precision	pinpoint aircraft with greater precision	1.0	pinpoint aircraft greater precision	pinpoint aircraft greater precision	1.0	1
+devote 10 agents to adult pornography	devote 10 agents to adult pornography	1.0	devote 10 agents adult pornography	devote 10 agents adult pornography	1.0	1
+rolled over	rolled over	1.0	rolled	rolled	1.0	1
+to commercial flights	commercial flights	0.8	commercial flights	commercial flights	1.0	1
+Carter	Carter	1.0	Carter	Carter	1.0	1
+Henry Kissinger	Henry Kissinger	1.0	Henry Kissinger	Henry Kissinger	1.0	1
+second claw was larger	western claw	0.3333333333333333	second claw larger	western claw	0.4	0
+the 1960s	1960s	1.0	1960s	1960s	1.0	1
+in St. Peter's Square	St. Peter's Square	0.8571428571428571	St. Peter 's Square	St. Peter 's Square	1.0	1
+Uka	Uka	1.0	Uka	Uka	1.0	1
+9,000	9,000	1.0	9,000	9,000	1.0	1
+US$14.7 billion	US$14.7 billion	1.0	US $ 14.7 billion	US $ 14.7 billion	1.0	1
+in marshland near Lyon in the east of France	marshland near Lyon in the east of France	0.9333333333333332	marshland near Lyon east France	marshland near Lyon east France	1.0	1
+the 1800s	1800s	1.0	1800s	1800s	1.0	1
+the troop's encampment	UN camp	0.0	troop 's encampment	UN camp	0.0	0
+trespassing	trespassing	1.0	trespassing	trespassing	1.0	1
+The sign was not physically damaged	physically damaged	0.5714285714285715	sign physically damaged	physically damaged	0.8	0
+to the National Congress	the National Congress	0.8	National Congress	National Congress	1.0	1
+northwest	west	0.0	northwest	west	0.0	0
+dual radios	the base station has dual radios	0.5714285714285715	dual radios	base station dual radios	0.6666666666666666	0
+as they are banned	they are banned from the Games	0.6666666666666665	banned	banned Games	0.6666666666666666	0
+encephalitis vaccine	encephalitis vaccine	1.0	encephalitis vaccine	encephalitis vaccine	1.0	1
+through mosquitos	mosquitos	0.6666666666666666	mosquitos	mosquitos	1.0	1
+possibly open the door for civil unions	open the door for civil unions in the future	0.7692307692307692	possibly open door civil unions	open door civil unions future	0.8000000000000002	0
+to the press	the press	0.6666666666666666	press	press	1.0	1
+Lo Piccolo	Lo Piccolo	1.0	Lo Piccolo	Lo Piccolo	1.0	1
+in Nepal	Nepal	0.6666666666666666	Nepal	Nepal	1.0	1
+a rabid dog	a rabid dog	1.0	rabid dog	rabid dog	1.0	1
+right after his pit-stop	right after his pit-stop	1.0	right pit-stop	right pit-stop	1.0	1
+the suspension damage	suspension damage	1.0	suspension damage	suspension damage	1.0	1
+a hearing	bail	0.0	hearing	bail	0.0	0
+Actress	Best Actor and Actress	0.4	Actress	Best Actor Actress	0.5	0
+OHA	Lockwood Gardens	0.0	OHA	Lockwood Gardens	0.0	0
+2,220	2,220	1.0	2,220	2,220	1.0	1
+34 have been verified to be martian in origin	Fifteen of these rocks are attributed to the meteorite shower	0.1111111111111111	34 verified martian origin	Fifteen rocks attributed meteorite shower	0.0	0
+in 2006	2006	0.6666666666666666	2006	2006	1.0	1
+during the 2009 Hungarian Grand Prix	2009 Hungarian Grand Prix	0.888888888888889	2009 Hungarian Grand Prix	2009 Hungarian Grand Prix	1.0	1
+all fifty of its delegates	all fifty of its delegates	1.0	fifty delegates	fifty delegates	1.0	1
+information	information	1.0	information	information	1.0	1
+boat	boat	1.0	boat	boat	1.0	1
+Four	45	0.0	Four	45	0.0	0
+in 2007	2007.	0.6666666666666666	2007	2007 .	1.0	1
+the United States	United States	1.0	United States	United States	1.0	1
+the economy	the economy	1.0	economy	economy	1.0	1
+the Sporting Shooters Association's hunting program	hunting program	0.5714285714285715	Sporting Shooters Association 's hunting program	hunting program	0.5	0
+moving the device through the air	moving the device through the air	1.0	moving device air	moving device air	1.0	1
+the controller	the controller	1.0	controller	controller	1.0	1
+the committee, unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature	the committee, unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature, had abandoned its efforts to reach him	0.8	committee , unable reach Bob Dylan directly winning 2016 Nobel Prize Literature	committee , unable reach Bob Dylan directly winning 2016 Nobel Prize Literature , abandoned efforts reach	0.88	0
+Bob Dylan	Bob Dylan	1.0	Bob Dylan	Bob Dylan	1.0	1
+Gordon Johndroe	Gordon Johndroe	1.0	Gordon Johndroe	Gordon Johndroe	1.0	1
+over 1,000	over 1,000	1.0	1,000	1,000	1.0	1
+A power failure	A power failure following a routine fire-command system test	0.4444444444444445	power failure	power failure following routine fire-command system test	0.4444444444444445	0
+waist-high	waist-high	1.0	waist-high	waist-high	1.0	1
+flooding	flooding as high as 20 feet	0.2857142857142857	flooding	flooding high 20 feet	0.4	0
+how planets form, especially how the Earth formed	how planets form	0.6	planets form , especially Earth formed	planets form	0.5714285714285715	0
+take pictures of the police stop	take pictures of the police stop	1.0	take pictures police stop	take pictures police stop	1.0	1
+240 kilometers an hour (149 miles per hour)	240 kilometers an hour	0.6	240 kilometers hour ( 149 miles per hour )	240 kilometers hour	0.6	0
+just after an early pit stop for Fernando Alonso	2008 Singapore Grand Prix	0.0	early pit stop Fernando Alonso	2008 Singapore Grand Prix	0.0	0
+The aircraft	a major component of both the Russian and Soviet military	0.0	aircraft	major component Russian Soviet military	0.0	0
+both female and male individuals	both female and male individuals	1.0	female male individuals	female male individuals	1.0	1
+rachis	a well-developed shaft	0.0	rachis	well-developed shaft	0.0	0
+in low-income countries	low-income countries	0.8	low-income countries	low-income countries	1.0	1
+standard inkjet printers	inkjet printers	0.8	standard inkjet printers	inkjet printers	0.8	0
+extreme weather conditions	extreme weather conditions	1.0	extreme weather conditions	extreme weather conditions	1.0	1
+when he believes life begins	life begins	0.5714285714285715	believes life begins	life begins	0.8	0
+the specifics of likely cases	abortion, saying that it would be unethical to comment on the specifics of likely cases	0.4444444444444445	specifics likely cases	abortion , saying would unethical comment specifics likely cases	0.5454545454545454	0
+skywards	skywards	1.0	skywards	skywards	1.0	1
+temperature variations	Infrared images	0.0	temperature variations	Infrared images	0.0	0
+Infrared images	deep holes in the ground	0.0	Infrared images	deep holes ground	0.0	0
+Springboks play Australia	Australia	0.5	Springboks play Australia	Australia	0.5	0
+Johannesburg	Ellis Park in Johannesburg	0.4	Johannesburg	Ellis Park Johannesburg	0.5	0
+49	49	1.0	49	49	1.0	1
+Bolonia	Bolonia	1.0	Bolonia	Bolonia	1.0	1
+29 per cent	29	0.5	29 per cent	29	0.5	0
+at the end of Queen Elizabeth II's reign	at the end of Queen Elizabeth II's reign	1.0	end Queen Elizabeth II 's reign	end Queen Elizabeth II 's reign	1.0	1
+Planned Parenthood	Planned Parenthood	1.0	Planned Parenthood	Planned Parenthood	1.0	1
+the Oversight and Investigations Subcommittee	Oversight and Investigations Subcommittee	1.0	Oversight Investigations Subcommittee	Oversight Investigations Subcommittee	1.0	1
+ASUS	ASUS	1.0	ASUS	ASUS	1.0	1
+laptop	laptop computer	0.6666666666666666	laptop	laptop computer	0.6666666666666666	0
+the boy	the boy	1.0	boy	boy	1.0	1
+in the second set	after reaching 6-6	0.0	second set	reaching 6-6	0.0	0
+Murray lost	Murray lost the first set	0.6666666666666666	Murray lost	Murray lost first set	0.6666666666666666	0
+children	school aged children	0.5	children	school aged children	0.5	0
+The Onion	The Onion	1.0	Onion	Onion	1.0	1
+At 11:20	11:20	0.6666666666666666	11:20	11:20	1.0	1
+bad weather	bad weather	1.0	bad weather	bad weather	1.0	1
+the storm is far from landfall	the storm is far from landfall	1.0	storm far landfall	storm far landfall	1.0	1
+Deputy Prime Minister Wong Kan Seng	Wong Kan Seng	0.6666666666666666	Deputy Prime Minister Wong Kan Seng	Wong Kan Seng	0.6666666666666666	0
+After a week of losses in the midterm election	After a week of losses in the midterm election	1.0	week losses midterm election	week losses midterm election	1.0	1
+fund extra carriages	extended the government's commitment made in March of this year to fund extra carriages	0.375	fund extra carriages	extended government 's commitment made March year fund extra carriages	0.4615384615384615	0
+presidential commission	a presidential commission	1.0	presidential commission	presidential commission	1.0	1
+making the sport of gymnastics, and others, as safe as possible	making the sport of gymnastics, and others, as safe as possible for athletes to follow their dreams in a safe, positive and empowered environment	0.625	making sport gymnastics , others , safe possible	making sport gymnastics , others , safe possible athletes follow dreams safe , positive empowered environment	0.631578947368421	0
+Palawan	Puerto Princesa in Palawan	0.4	Palawan	Puerto Princesa Palawan	0.5	0
+the press secretary	press secretary	1.0	press secretary	press secretary	1.0	1
+Turkey	Turkey	1.0	Turkey	Turkey	1.0	1
+hostile fire	hostile fire	1.0	hostile fire	hostile fire	1.0	1
+mountainous	mountainous	1.0	mountainous	mountainous	1.0	1
+restore eroded sandbars	restore eroded sandbars downstream	0.8571428571428571	restore eroded sandbars	restore eroded sandbars downstream	0.8571428571428571	0
+7	7	1.0	7	7	1.0	1
+racer	fellow racer	0.6666666666666666	racer	fellow racer	0.6666666666666666	0
+overcome a fear which is based on the unknown or on not being in control	not being in control	0.4705882352941176	overcome fear based unknown control	control	0.33333333333333337	0
+Drink alcoholic drinks with moderation	illegally produced alcohol	0.0	Drink alcoholic drinks moderation	illegally produced alcohol	0.0	0
+The Canal District	The Canal District	1.0	Canal District	Canal District	1.0	1
+cultural and historical value	its unique cultural and historical value	0.8	cultural historical value	unique cultural historical value	0.8571428571428571	0
+inland	inland	1.0	inland	inland	1.0	1
+in remote areas	remote areas	0.8	remote areas	remote areas	1.0	1
+Central Auckland	North Shore beaches	0.0	Central Auckland	North Shore beaches	0.0	0
+because it is established by law as the first official language	it is established by law as the first official language	0.9473684210526316	established law first official language	established law first official language	1.0	1
+people who work with poultry	people who work with poultry	1.0	people work poultry	people work poultry	1.0	1
+the Arctic Ocean to the Baltic Sea	the Arctic Ocean to the Baltic Sea	1.0	Arctic Ocean Baltic Sea	Arctic Ocean Baltic Sea	1.0	1
+The Portuguese	The Portuguese	1.0	Portuguese	Portuguese	1.0	1
+a new republic	Nagorno-Karabakh region of Azerbaijan waged war against the Azeris. With Armenian backing, a new republic	0.2666666666666667	new republic	Nagorno-Karabakh region Azerbaijan waged war Azeris . Armenian backing , new republic	0.33333333333333337	0
+Diplomatic arguments	Diplomatic arguments	1.0	Diplomatic arguments	Diplomatic arguments	1.0	1
+more than 2 passengers	having more than 2 passengers	0.888888888888889	2 passengers	2 passengers	1.0	1
+Inca	Inca	1.0	Inca	Inca	1.0	1
+Paths, trains and boats	Paths, trains and boats	1.0	Paths , trains boats	Paths , trains boats	1.0	1
+Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso	Five Lands	0.0	Riomaggiore , Manarola , Corniglia , Vernazza Monterosso	Five Lands	0.0	0
+readjusting to their native culture	readjusting to their native culture	1.0	readjusting native culture	readjusting native culture	1.0	1
+Norwegians	Norwegians	1.0	Norwegians	Norwegians	1.0	1
+US green card	an invitation letter	0.0	US green card	invitation letter	0.0	0
+some may be knock-offs	some may be knock-offs	1.0	may knock-offs	may knock-offs	1.0	1
+On the outlying islands	credit cards will probably not be accepted	0.0	outlying islands	credit cards probably accepted	0.0	0
+Kerala's temple festivals	Kerala's temple festivals	1.0	Kerala 's temple festivals	Kerala 's temple festivals	1.0	1
+a microwave oven	microwave oven	1.0	microwave oven	microwave oven	1.0	1
+waving	waving	1.0	waving	waving	1.0	1
+the North Kivu province	North Kivu province	1.0	North Kivu province	North Kivu province	1.0	1
+Permits are limited	Permits are limited	1.0	Permits limited	Permits limited	1.0	1
+often covered in heather	treeless moorland often covered in heather	0.8	often covered heather	treeless moorland often covered heather	0.7499999999999999	0
+during winter	winter	0.6666666666666666	winter	winter	1.0	1
+This	Hong Kong Island	0.0		Hong Kong Island	0.0	0
+the Kowloon waterfront	Kowloon waterfront	1.0	Kowloon waterfront	Kowloon waterfront	1.0	1
+safety bars	safety bars	1.0	safety bars	safety bars	1.0	1
+a heel and a smooth, quite narrow, sole	a heel and a smooth, quite narrow, sole	1.0	heel smooth , quite narrow , sole	heel smooth , quite narrow , sole	1.0	1
+A listing of available hosts	A listing of available hosts	1.0	listing available hosts	listing available hosts	1.0	1
+a typical guest is in their twenties	young people	0.0	typical guest twenties	young people	0.0	0
+the Internet	calls are routed over the Internet	0.3333333333333333	Internet	calls routed Internet	0.5	0
+Cherry blossom	Cherry blossom	1.0	Cherry blossom	Cherry blossom	1.0	1
+the emperor	the emperor	1.0	emperor	emperor	1.0	1
+In remote locations, without cell phone coverage	remote locations, without cell phone coverage	0.923076923076923	remote locations , without cell phone coverage	remote locations , without cell phone coverage	1.0	1
+to camp on site	camp on site	0.8571428571428571	camp site	camp site	1.0	1
+Fruit juices	bottled water	0.0	Fruit juices	bottled water	0.0	0
+The Spaniards	The Spaniards	1.0	Spaniards	Spaniards	1.0	1
+more comfortable and less crowded	more comfortable and less crowded	1.0	comfortable less crowded	comfortable less crowded	1.0	1
+corner store	Every corner store	0.8	corner store	Every corner store	0.8	0
+through a toll-free telephone number	through a toll-free telephone number	1.0	toll-free telephone number	toll-free telephone number	1.0	1
+immigration check	immigration check	1.0	immigration check	immigration check	1.0	1
+SkyTeam	SkyTeam	1.0	SkyTeam	SkyTeam	1.0	1
+elephants and giraffes	elephants and giraffes	1.0	elephants giraffes	elephants giraffes	1.0	1
+downloading the desired language data	Google Translate	0.0	downloading desired language data	Google Translate	0.0	0
+yogurt	yogurt	1.0	yogurt	yogurt	1.0	1
+crevasses	crevasses	1.0	crevasses	crevasses	1.0	1
+In the churchyard	churchyard	0.6666666666666666	churchyard	churchyard	1.0	1
+Student visas	Student visas	1.0	Student visas	Student visas	1.0	1
+an international student	international student	1.0	international student	international student	1.0	1
+Sundarbans National Park	Sundarbans National Park	1.0	Sundarbans National Park	Sundarbans National Park	1.0	1
+to purchase a ticket a few days in advance	purchase a ticket a few days in advance	0.923076923076923	purchase ticket days advance	purchase ticket days advance	1.0	1
+July 2020	July 2020	1.0	July 2020	July 2020	1.0	1
+hot climates	hot	0.6666666666666666	hot climates	hot	0.6666666666666666	0
+The fabulous riches	fabulous riches	1.0	fabulous riches	fabulous riches	1.0	1
+phages	phages	1.0	phages	phages	1.0	1
+the show	show	1.0	show	show	1.0	1
+a neighbor	a neighbor	1.0	neighbor	neighbor	1.0	1
+enough ambiguity in the Afghan constitution	ambiguity in the Afghan constitution	0.888888888888889	enough ambiguity Afghan constitution	ambiguity Afghan constitution	0.8571428571428571	0
+Police	Police	1.0	Police	Police	1.0	1
+TogiNet Radio	TogiNet Radio	1.0	TogiNet Radio	TogiNet Radio	1.0	1
+geeky	geeky	1.0	geeky	geeky	1.0	1
+Nicklas Backstrom	Nicklas Backstrom	1.0	Nicklas Backstrom	Nicklas Backstrom	1.0	1
+Alex Ovechkin	Alex Ovechkin	1.0	Alex Ovechkin	Alex Ovechkin	1.0	1
+block	Dump trucks were used to block tube entrances	0.2222222222222222	block	Dump trucks used block tube entrances	0.2857142857142857	0
+Simon	Brooks and Groening	0.0	Simon	Brooks Groening	0.0	0
+the quake did not meet the magnitude 6.5 requirement	the quake did not meet the magnitude 6.5 requirement	1.0	quake meet magnitude 6.5 requirement	quake meet magnitude 6.5 requirement	1.0	1
+The luminosity and rotation	luminosity and rotation	1.0	luminosity rotation	luminosity rotation	1.0	1

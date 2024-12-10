@@ -1,0 +1,32 @@
+Results for "All" setting
+Passage, Question  , FScore, Exact Match
+EN    , Iraqi    , 62.7 , 46.8 
+EN    , Levantine, 68.2 , 53.5 
+EN    , Gulf     , 68.2 , 52.9 
+EN    , Moroccan , 65.7 , 49.5 
+EN    , Egyptian , 68.7 , 53.8 
+EN    , DA--Avg. , 66.7 , 51.3 
+
+MSA   , Iraqi    , 53.1 , 35.3 
+MSA   , Levantine, 60.3 , 43.2 
+MSA   , Gulf     , 59.9 , 42.9 
+MSA   , Moroccan , 58.6 , 42.6 
+MSA   , Egyptian , 60.4 , 42.2 
+MSA   , DA--Avg. , 58.5 , 41.2 
+
+Results for "NoBB" setting
+Passage, Question  , FScore, Exact Match
+EN    , Iraqi    , 67.2 , 50.9 
+EN    , Levantine, 72.3 , 57.9 
+EN    , Gulf     , 72.2 , 57.2 
+EN    , Moroccan , 69.6 , 53.0 
+EN    , Egyptian , 72.9 , 58.2 
+EN    , DA--Avg. , 70.9 , 55.4 
+
+MSA   , Iraqi    , 55.7 , 37.9 
+MSA   , Levantine, 64.1 , 46.7 
+MSA   , Gulf     , 63.3 , 46.0 
+MSA   , Moroccan , 61.5 , 45.3 
+MSA   , Egyptian , 64.2 , 46.0 
+MSA   , DA--Avg. , 61.8 , 44.4 
+

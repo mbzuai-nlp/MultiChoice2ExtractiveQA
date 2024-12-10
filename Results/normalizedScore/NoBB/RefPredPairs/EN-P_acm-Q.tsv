@@ -1,0 +1,286 @@
+Reference	Predection	F1_score
+to ensure that the image covers the whole screen	if the video had subtitles too close to the bottom, they won't be fully shown	0.1
+at Bordentown	Bordentown	0.6666666666666666
+John Hancock and the Secretary Charles Thomson	John Hancock	0.5
+along the fence on the north end of the Colonist's position	along the fence on the north end of the Colonist's position	1.0
+polymorphic	polymorphic	1.0
+neutrons and protons	neutrons and protons. Protons have a positive electric charge while neutrons have no charge	0.375
+bits	bits	1.0
+Felix Bloch (working at Stanford University) and Edward Purcell (from Harvard University)	Felix Bloch	0.2857142857142857
+towards the end of the Middle Ages	towards the end of the Middle Ages western Europe began to develop their own style	0.5555555555555556
+the crusades	buttons to fasten clothing	0
+the Thirty Years' War	the Thirty Years' War	1.0
+class	cailaber	0
+strokes	strokes	1.0
+to eliminate one or more of the possible hypotheses	to figure out the way the world works through the scientific method	0.11764705882352941
+thousands of years	telescopes	0
+expressed variation	Mutation	0
+Mutation	Mutation	1.0
+ through a distinctive and symbolic use of style	Subcultures bring together like-minded individuals who feel neglected by societal standards and allow them to develop a sense of identity	0.15384615384615385
+tend to not do well in school	tend to not do well in school	1.0
+the length of time between REM states	lucid dreams expanding the length of time between REM states	0.8
+the Late Middle Ages	Late Middle Ages	1.0
+visual system sensory organs	visual system sensory organs or eyes	0.8
+the requirements of the organism	visual system sensory organs or eyes. There are many different constructions of eyes, ranging in complexity depending on the requirements of the organism	0.25
+several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx	several pyramids (of which the great pyramid is the largest), several small tombs, several temples, and the great Sphinx	1.0
+to honor the Pharaoh Khufu	to honor the Pharaoh Khufu	1.0
+Strabo	Strabo	1.0
+stop this traffic	the German navy, using mainly U-boats, was trying to stop this traffic	0.42857142857142855
+saddle	The invention of spoke wheels	0
+on horseback	fought on the bare backs of their horses	0.22222222222222224
+in 1922	1922	0.6666666666666666
+the discovery of his tomb	King Tutankhamun	0
+Pythagoras	Homer	0
+in the open air	in the open air	1.0
+the house	Most of the life of the Hebrew family happened in the open air	0
+Eskimo tribes	Erik the Red	0
+the rich men	poor people	0
+the amount of Hydrogen (the H in pH) ions in the tested chemical	Hydrogen (the H in pH) ions in the tested chemical	0.888888888888889
+electrons	electrons	1.0
+medium sized cats	cats	0.5
+small room	small room	1.0
+sun	sun	1.0
+carbon-dioxide	oxygen	0
+veins	veins	1.0
+capillaries	capillaries	1.0
+Belgian Revolution	after the 1830s Belgian Revolution	0.6666666666666666
+23,764	23,764 square kilometres	0.5
+religious ceremonies	religious ceremonies	1.0
+stimulated by the bright light	they must get rid of the extra energy they got from the light	0.13333333333333333
+Norway	Norwegian	0
+Around the 15th century	Around the 15th century	1.0
+the German alphabet	northern Estonia was under great cultural influence of Germany	0
+Hangeul	Hangeul	1.0
+gas	gas	1.0
+oil	agriculture	0
+two hydrogen atoms and one oxygen atom	It has the same molecular structure	0
+chemical state	its chemical state remains the same	0.5714285714285715
+upside down	no one knows for certain who wrote it	0
+national flower	Vanda Miss Joaquim, an orchid hybrid	0
+Britain	Britain	1.0
+Operation Sealion	Operation Sealion	1.0
+""Vichy"" French	French people	0.5
+the Americans and Free French forces	Operation Dragoon"". In just two weeks the Americans and Free French forces had liberated southern France and were turning towards Germany.	0.4
+radar	radar began developing and becoming more accurate the submarines were forced to go under water to avoid being seen	0.10526315789473684
+shooting	shooting range	0.6666666666666666
+the British captured the Italian Tenth Army's Engineer-in-Chief	General Lastucci	0
+in Tobruk	Marshal Italo Balbo, the Governor-General of Libya and apparent heir to Mussolini, was killed by friendly fire while landing in Tobruk	0.18181818181818182
+Jai Shankar Choudhary	Lakkha Singh	0
+Sezen Aksu performed with the Italian tenor Alessandro Safina and Greek singer Haris Alexiou	Turkish dance group Fire of Anatolia performed the show ""Troy"".	0.09090909090909093
+Italian	Italian	1.0
+in Tonga	Pago Pago and Niue	0
+when he slowed down to 160km/h	when he slowed down to 160km/h	1.0
+about 65 km (40 miles) south of Butte	about 65 km (40 miles) south	0.8571428571428571
+Abu Ghraib prison has been set alight	prison has been set alight	0.8333333333333333
+prisoner abuse was discovered	The jail became notorious after prisoner abuse was discovered there after US forces took over	0.4444444444444445
+protesters	protesters from the south	0.5
+Bishkek residents	lawlessness	0
+2013	Shark Tank episode where the show panel declined funding the startup	0
+when his doorbell wasn't audible from his shop in his garage	Ring also settled a lawsuit	0
+books	recommendations for books that children should look for when they went to their library	0.13333333333333333
+the funding crunch and a shift in the philosophy of educational television programming	funding crunch and a shift in the philosophy of educational television programming	1.0
+four	four	1.0
+Apple	Around 60 cases of malfunctioning iPods overheating have been reported, causing a total of six fires and leaving four people with minor burns	0
+the phone	reinvent the phone	0.6666666666666666
+her presidential candidacy	her intention to run for president	0.2222222222222222
+in La Plata	La Plata	0.8
+had not breached online content censorship laws	Big Brother had not breached online content censorship laws	0.8750000000000001
+physically reside on a server	it must physically reside on a server	0.8
+John Howard	Peter Costello	0
+Maciej Krezel	a number of countries have failed to make the medal podium	0
+Finland	the Netherlands	0
+53	53	1.0
+Manchester City	Manchester City	1.0
+Jack Layton	Jack Layton	1.0
+the state government and some federal MPs	Prime Minister John Howard	0
+crystals	crystals	1.0
+crystals formed in cat urine	The composition of these crystals matches those found in the urine of affected pets	0.35294117647058826
+Tommy Dreamer	Tommy Dreamer	1.0
+"" Dustin ""Goldust"" Runnels	Dustin ""Goldust"" Runnels	1.0
+to avoid the old path of polluting first and cleaning up later	We will endeavour to cut carbon dioxide emissions per unit of GDP by a notable margin by 2020 from the 2005 level	0.12903225806451613
+Ed Davey	Ed Davey	1.0
+Norman Lamb	Norman Lamb	1.0
+the performers	the performers smoke cannabis joints on stage, and the theatre itself is encouraging the audience to join in.	0.125
+extravehicular activity (EVA)	Apollo–Soyuz	0
+Apollo–Soyuz	Apollo–Soyuz mission	0.6666666666666666
+Liberal	fiscal conservatives	0
+Skype	It is the biggest acquisition in eBay's history	0
+diversify its profit sources and gain popularity in areas where Skype holds a strong position	gain popularity in areas where Skype holds a strong position	0.782608695652174
+the dependency on oil	Ayatollah Ali Khamenei, has described the dependency on oil as ""a trap"" dating from before Iran's Islamic revolution in 1979	0.2857142857142857
+a pre-printed sheet of paper indicating their candidate of choice into an envelope	an envelope	0.16666666666666669
+a lifelong interest in the war	Allen has reportedly invested much of his wealth in marine exploration and began his quest to find the Musashi out of a lifelong interest in the war	0.2857142857142857
+the very high fatality rate	very high fatality rate	1.0
+two	6,000	0
+satellite-based technology	satellite-based technology	1.0
+pinpoint aircraft with greater precision	NextGen is a system the FAA claims would allow aircraft to fly shorter routes and save millions of gallons of fuel each year	0.07692307692307693
+devote 10 agents to adult pornography	Historians have criticized past FBI policies for focusing resources on cases which are easy to solve	0.09090909090909091
+rolled over	an airport fire vehicle	0
+to commercial flights	Squadron Leader Dilokrit Pattavee	0
+Carter	Iranian Revolution, which led to the Iran hostage crisis, 1979; and the Soviet invasion in Afghanistan, 1979	0
+Henry Kissinger	Brzezinski	0
+second claw was larger	western claw	0.3333333333333333
+the 1960s	Algeria	0
+in St. Peter's Square	St. Peter's Square	0.8571428571428571
+Uka	Uka	1.0
+9,000	9,000	1.0
+US$14.7 billion	10 billion euros (US$14.7 billion)	0.5714285714285715
+in marshland near Lyon in the east of France	marshland near Lyon in the east of France	0.9333333333333333
+the 1800s	UN peacekeepers, whom arrived in Haiti after the 2010 earthquake, are being blamed for the spread of the disease	0
+the troop's encampment	UN peacekeepers	0
+trespassing	Christopher Garcia	0
+The sign was not physically damaged	the suspected male offender is being investigated for trespassing	0
+to the National Congress	Protesters hope to collect a petition of 1.2 million signatures to present to the National Congress in November	0.3157894736842105
+northwest	northwest	1.0
+dual radios	the base station has dual radios	0.5714285714285715
+as they are banned	drugs	0
+encephalitis vaccine	deployment of pig catchers in seriously affected areas, distributing thousands of mosquito curtains and spraying pesticides	0
+through mosquitos	through mosquitos	1.0
+possibly open the door for civil unions	could possibly open the door for civil unions in the future	0.8
+to the press	Panamanian law firm Mossack Fonseca, leaked to the press	0.4
+Lo Piccolo	police were concerned by a couple of top-level hits they feared might spark a full-blown war of succession	0
+in Nepal	Nepal	0.6666666666666666
+a rabid dog	a rabid dog	1.0
+right after his pit-stop	pit-stop	0.4
+the suspension damage	Giancarlo Fisichella lost control of his car and ended the race very soon after the start	0
+a hearing	a hearing by a court commissioner	0.4
+Actress	Best Actor and Actress	0.4
+OHA	tenants	0
+2,220	2,250	0
+34 have been verified to be martian in origin	Fifteen of these rocks are attributed to the meteorite shower	0.1111111111111111
+in 2006	2006	0.6666666666666666
+during the 2009 Hungarian Grand Prix	Massa is due to be out for at least the rest of the 2009 season	0.1111111111111111
+all fifty of its delegates	all fifty of its delegates	1.0
+information	10 gunmen from the Pakistani militant group Laskhar-e-Taiba	0
+boat	boat	1.0
+Four	116	0
+in 2007	Northern Rock had required support due to its exposure during the subprime mortgage crisis in 2007.	0.23529411764705882
+the United States	United States	1.0
+the economy	heavy reliance on coal exports	0
+the Sporting Shooters Association's hunting program	supplementary pest control trial	0
+moving the device through the air	two sensors	0
+the controller	Resembling a television remote	0
+the committee, unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature	the committee, unable to reach Bob Dylan directly about winning the 2016 Nobel Prize in Literature, had abandoned its efforts to reach him	0.8
+Bob Dylan	Bob Dylan	1.0
+Gordon Johndroe	Gordon Johndroe	1.0
+over 1,000	Sweden	0
+A power failure	A power failure	1.0
+waist-high	20 feet	0
+flooding	The Ninth Ward, which saw flooding as high as 20 feet	0.18181818181818182
+how planets form, especially how the Earth formed	how planets form	0.6
+take pictures of the police stop	the photographer stopped his vehicle on the other side of Sepulveda Boulevard	0.13333333333333333
+240 kilometers an hour (149 miles per hour)	At its peak	0
+just after an early pit stop for Fernando Alonso	Piquet Jr.	0
+The aircraft	The Il-76 has been a major component of both the Russian and Soviet military since the 1970s	0
+both female and male individuals	contraception medication be considered a medical necessity	0
+rachis	confirms that at least some dinosaurs had feathers	0
+in low-income countries	low-income countries	0.8
+standard inkjet printers	a tiny printable chip	0
+extreme weather conditions	extreme weather conditions	1.0
+when he believes life begins	when he believes life begins	1.0
+the specifics of likely cases	when he believes life begins	0
+skywards	8:46 a.m.	0
+temperature variations	Infrared images show that the temperature variations from night and day show that they are likely caves	0.2222222222222222
+Infrared images	deep holes in the ground	0
+Springboks play Australia	All Blacks (New Zealand	0
+Johannesburg	Ellis Park in Johannesburg	0.4
+49	49	1.0
+Bolonia	Bolonia	1.0
+29 per cent	those who oppose Australia becoming a republic grew by 8 per cent since 2008.	0.25
+at the end of Queen Elizabeth II's reign	Australia should become a republic at the end of Queen Elizabeth II's reign	0.7777777777777778
+Planned Parenthood	Planned Parenthood	1.0
+the Oversight and Investigations Subcommittee	Oversight and Investigations Subcommittee	1.0
+ASUS	ASUS	1.0
+laptop	earlier launched world-wide for cost-saving and functionality factors	0
+the boy	the boy had hidden more than 600 postal documents	0.2222222222222222
+in the second set	a tie break	0
+Murray lost	Murray lost the first set in a tie break	0.4444444444444445
+children	school aged children	0.5
+The Onion	The Onion	1.0
+At 11:20	11:20	0.6666666666666666
+bad weather	The Twin Otter	0
+the storm is far from landfall	it remains difficult to assess potential impact to the United States or Caribbean	0
+Deputy Prime Minister Wong Kan Seng	Wong Kan Seng	0.6666666666666666
+After a week of losses in the midterm election	Bush told an audience about the expansion of trade in Asia	0.25
+fund extra carriages	Today's announcement also extended the government's commitment made in March of this year to fund extra carriages	0.3157894736842105
+presidential commission	a presidential commission	1.0
+making the sport of gymnastics, and others, as safe as possible	making the sport of gymnastics, and others, as safe as possible for athletes to follow their dreams in a safe, positive and empowered environment	0.625
+Palawan	Puerto Princesa in Palawan	0.4
+the press secretary	Donald Trump	0
+Turkey	Turkey	1.0
+hostile fire	hostile fire	1.0
+mountainous	mountainous	1.0
+restore eroded sandbars	officials are hoping it will be enough to restore eroded sandbars downstream	0.4
+7	70	0
+racer	Peter Lenz, a 13-year-old motorcycle racer, has died	0.25
+overcome a fear which is based on the unknown or on not being in control	may help to overcome a fear which is based on the unknown or on not being in control	0.896551724137931
+Drink alcoholic drinks with moderation	liver damage and even blindness and death. The potential danger is increased when consuming illegally produced alcohol	0
+The Canal District	The Canal District	1.0
+cultural and historical value	The whole district is designated as a UNESCO World Heritage Site for its unique cultural and historical value	0.4
+inland	Antarctica	0
+in remote areas	remote areas with favorable atmospheric conditions	0.4444444444444444
+Central Auckland	Tamaki Drive beaches are on the Waitemata Harbour, in the upmarket suburbs of Mission Bay and St Heliers in Central Auckland	0.1904761904761905
+because it is established by law as the first official language	because it is established by law as the first official language	1.0
+people who work with poultry	birdwatchers	0
+the Arctic Ocean to the Baltic Sea	The White Sea–Baltic Canal connects the Arctic Ocean to the Baltic Sea, via Lake Onega, Lake Ladoga and Saint Petersburg	0.45454545454545453
+The Portuguese	The Portuguese	1.0
+a new republic	a new republic	1.0
+Diplomatic arguments	Diplomatic arguments	1.0
+more than 2 passengers	There is a surcharge for having more than 2 passengers	0.6153846153846153
+Inca	Inca	1.0
+Paths, trains and boats	Liguria	0
+Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso	Cinque Terre, which means Five Lands	0
+readjusting to their native culture	patience and understanding	0
+Norwegians	Norwegians	1.0
+US green card	an invitation letter	0
+some may be knock-offs	some may be knock-offs, and the real imported ones may be more expensive than at home	0.4210526315789474
+On the outlying islands	check with the owners in advance to determine what is an acceptable payment method	0
+Kerala's temple festivals	Kerala	0
+a microwave oven	microwave oven	1.0
+waving	come over	0
+the North Kivu province	any visits outside of Goma should be researched to understand the state of the fighting that persists in the North Kivu province	0.2727272727272727
+Permits are limited	Permits are limited	1.0
+often covered in heather	Rogaland and Agder they are usually called ""hei"" meaning a treeless moorland often covered in heather	0.4210526315789474
+during winter	many hill stations receiving healthy amounts of snow and offering activities such as skiing and snowboarding	0
+This	Hong Kong Island	0
+the Kowloon waterfront	Kowloon waterfront	1.0
+safety bars	Stirrups	0
+a heel and a smooth, quite narrow, sole	Stirrups	0
+A listing of available hosts	A listing of available hosts	1.0
+a typical guest is in their twenties	Hostels cater primarily to young people – a typical guest is in their twenties	0.631578947368421
+the Internet	There is also no requirement that you obtain a local number from the community in which you live	0
+Cherry blossom	Cherry blossom viewing	0.8
+the emperor	the emperor	1.0
+In remote locations, without cell phone coverage	A satellite phone is not generally a replacement for a mobile phone	0.125
+to camp on site	camp on site	0.8571428571428571
+Fruit juices	bottled water is easy to find if you are fearful	0
+The Spaniards	Spaniards	1.0
+more comfortable and less crowded	cheaper than normal metro tickets in Europe	0
+corner store	Every corner store	0.8
+through a toll-free telephone number	can be called from most phones without charge	0
+immigration check	immigration check	1.0
+SkyTeam	Star Alliance	0
+elephants and giraffes	elephants and giraffes	1.0
+downloading the desired language data	Google Translate	0
+yogurt	Northern India	0
+crevasses	The South Pole Traverse	0
+In the churchyard	Haldarsvík	0
+Student visas	Student visas	1.0
+an international student	going there as an international student	0.5714285714285715
+Sundarbans National Park	Sundarbans	0.5
+to purchase a ticket a few days in advance	it is advisable to purchase a ticket a few days in advance	0.8235294117647058
+July 2020	July 2020	1.0
+hot climates	hot climates	1.0
+The fabulous riches	Egyptian Museum in Cairo	0
+phages	phages	1.0
+the show	The band canceled the show at Maui's War Memorial Stadium	0.2222222222222222
+a neighbor	a neighbor	1.0
+enough ambiguity in the Afghan constitution	Diplomats said that they had found enough ambiguity in the Afghan constitution to determine the runoff as unnecessary	0.47619047619047616
+Police	Police	1.0
+TogiNet Radio	TogiNet Radio	1.0
+geeky	old school radio theater with a new and outrageous geeky spin!	0.18181818181818182
+Nicklas Backstrom	Alex Ovechkin	0
+Alex Ovechkin	Alex Ovechkin	1.0
+block	Dump trucks	0
+Simon	Simon	1.0
+the quake did not meet the magnitude 6.5 requirement	No tsunami warning has been issued	0
+The luminosity and rotation	The smaller the Rossby number, the less active the star with respect to magnetic reversals	0
