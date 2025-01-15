@@ -20,6 +20,11 @@ The project includes:
 - **`Settings/`**: Contains configuration files for running experiments and evaluations.
 - **`Settings_Translated/`**: Includes configuration files for experiments using translated data.
 
+## Prerequisites
+
+[PrimeQA](https://github.com/primeqa): This repository relies on the PrimeQA toolkit for evaluation and experimentation. 
+Installation instructions for PrimeQA can be found [here](https://github.com/primeqa/primeqa?tab=readme-ov-file#%EF%B8%8F-getting-started).
+
 ## Dataset
 
 ### Description
