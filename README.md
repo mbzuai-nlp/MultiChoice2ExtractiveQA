@@ -56,6 +56,7 @@ If you use this dataset or code, please cite:
   booktitle={Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)},
   year={2025}
 }
+```
 
 ## Acknowledgments
 This work was conducted at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/) in collaboration with [IBM Research AI](https://research.ibm.com/artificial-intelligence) and [New York University Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/). Special thanks to the BELEBELE dataset creators and the PrimeQA toolkit team.
