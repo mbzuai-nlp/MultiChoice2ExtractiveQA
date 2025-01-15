@@ -73,7 +73,7 @@ The dataset is available in the `Data/` folder
 
 Monolingual and cross-lingual evaluation of BELEBELE-EQA shows strong performance in monolingual settings (EN-EN, MSA-MSA) and significant improvement with translation for dialectal Arabic. Results highlight the difficulty of cross-lingual and dialectal QA, emphasizing the value of the BELEBELE-EQA dataset for benchmarking multilingual QA systems. 
 
-Please read a paper for detailed results.
+For an in-depth exploration of the results, refer to the full paper.
 
 ---
 
