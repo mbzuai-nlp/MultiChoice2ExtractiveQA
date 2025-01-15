@@ -50,15 +50,12 @@ Detailed results in a paper.
 If you use this dataset or code, please cite:
 
 ```bibtex
-## Citation
-
-If you use this dataset or code, please cite:
-
-```bibtex
-
 @inproceedings{lynn_etal_2025_mcqa_to_eqa,
   title={From Multiple-Choice to Extractive QA: A Case Study for English and Arabic},
   author={Lynn, Teresa and Altakrori, Malik H. and Magdy, Samar M. and Das, Rocktim Jyoti and Lyu, Chenyang and Nasr, Mohamed and Samih, Younes and Chirkunov, Kirill and Aji, Alham Fikri and Nakov, Preslav and Godbole, Shantanu and Roukos, Salim and Florian, Radu and Habash, Nizar},
   booktitle={Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025)},
   year={2025}
 }
+
+## Acknowledgments
+This work was conducted at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/) in collaboration with [IBM Research AI](https://research.ibm.com/artificial-intelligence) and [New York University Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/). Special thanks to the BELEBELE dataset creators and the PrimeQA toolkit team.
