@@ -71,7 +71,9 @@ The dataset is available in the `Data/` folder
 |         | DA--Egyptian (T_MSA)       | 58.5       | 37.7       | 60.4        | 42.2        | 62.1       | 41.1       | 64.2        | 46.0        |
 |         | *DA--Average* (T_MSA)      | 56.6       | 36.3       | 58.5        | 41.2        | 59.7       | 39.4       | 61.8        | 44.4        |
 
-Monolingual and cross-lingual evaluation of BELEBELE-EQA shows strong performance in monolingual settings (EN-EN, MSA-MSA) and significant improvement with translation for dialectal Arabic. Results highlight the difficulty of cross-lingual and dialectal QA, emphasizing the value of the BELEBELE-EQA dataset for benchmarking multilingual QA systems. Please read a paper for detailed results.
+Monolingual and cross-lingual evaluation of BELEBELE-EQA shows strong performance in monolingual settings (EN-EN, MSA-MSA) and significant improvement with translation for dialectal Arabic. Results highlight the difficulty of cross-lingual and dialectal QA, emphasizing the value of the BELEBELE-EQA dataset for benchmarking multilingual QA systems. 
+
+Please read a paper for detailed results.
 
 ---
 
