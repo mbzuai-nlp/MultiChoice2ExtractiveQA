@@ -92,7 +92,7 @@ If you use this dataset or code, please cite:
 
 ## Acknowledgments
 This work is a result of a collaboration between [IBM Research AI](https://research.ibm.com/artificial-intelligence), [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), and [New York University Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/).
-Special thanks to the [BELEBELE dataset](https://github.com/facebookresearch/belebele) creators and the [PrimeQA](https://github.com/primeqa/primeqa) (Copyright (c) Meta Platforms, Inc. and affiliates.) toolkit team.
+Special thanks to the [BELEBELE dataset](https://github.com/facebookresearch/belebele) (copyright (c) Meta Platforms, Inc. and affiliates.) creators and the [PrimeQA](https://github.com/primeqa/primeqa) toolkit team.
 
 ## License
 
