@@ -93,3 +93,10 @@ If you use this dataset or code, please cite:
 ## Acknowledgments
 This work is a result of a collaboration between [IBM Research AI](https://research.ibm.com/artificial-intelligence), [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/), and [New York University Abu Dhabi (NYUAD)](https://nyuad.nyu.edu/).
 Special thanks to the [BELEBELE dataset](https://github.com/facebookresearch/belebele) creators and the [PrimeQA](https://github.com/primeqa/primeqa) toolkit team.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA 4.0)](LICENSE_CC-BY-SA4.0).  
+You are free to share, copy, and adapt the material under the conditions outlined in the license. 
+
+For more information, visit the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/).
