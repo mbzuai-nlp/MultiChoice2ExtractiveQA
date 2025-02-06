@@ -426,10 +426,6 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 GNU Lesser Public License (LGPL) v2.1
-HEADER
-The following header should appear in each code file:
-
-Copyright (c) Meta Platforms, Inc. and affiliates.
 
 This software may be used and distributed according to the terms of the
 GNU Lesser General Public License version 2.
